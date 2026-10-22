@@ -9,7 +9,7 @@
     "steamAppId": 271590,
     "store": "Steam",
     "genres": ["Open world", "Action"],
-    "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b5/Grand_Theft_Auto_V_Enhanced_cover.jpg/300px-Grand_Theft_Auto_V_Enhanced_cover.jpg",
+    "coverUrl": "https://cdn2.steamgriddb.com/thumb/a300cda08d24b7cf1cf45bd4eba1ae0b.jpg",
     "bannerUrl": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/89953o1153a39a/7605447a5de6d01bc62fc0ee04c97b37ccaa7e6b.jpg",
     "year": 2025
   },
@@ -5355,7 +5355,7 @@
     "summary": "The latest evolution in football simulation with hyper-realistic animations, expanded manager challenges, and overhauled team dynamics.",
     "store": "Steam",
     "genres": ["Sports", "Simulation"],
-    "coverUrl: "https://www.fifplay.com/img/public/fc-27-cover-standard-edition.jpg",
+    "coverUrl": "https://www.fifplay.com/img/public/fc-27-cover-standard-edition.jpg",
     "year": 2026
   }
 ]
