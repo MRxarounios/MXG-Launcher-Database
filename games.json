@@ -9,7 +9,7 @@
     "steamAppId": 271590,
     "store": "Steam",
     "genres": ["Open world", "Action"],
-    "coverUrl": "https://cdn2.steamgriddb.com/thumb/a300cda08d24b7cf1cf45bd4eba1ae0b.jpg",
+    "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b5/Grand_Theft_Auto_V_Enhanced_cover.jpg/300px-Grand_Theft_Auto_V_Enhanced_cover.jpg",
     "bannerUrl": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/89953o1153a39a/7605447a5de6d01bc62fc0ee04c97b37ccaa7e6b.jpg",
     "year": 2025
   },
@@ -28,7 +28,7 @@
   {
     "id": "rdr2",
     "name": "Red Dead Redemption 2",
-    "exeName": "PlayRDR2.exe",
+    "exeName": "RDR2.exe",
     "path": "D:\\Red Dead Redemption 2\\RDR2.exe",
     "creators": "Rockstar Games",
     "pegi": "PEGI 18",
@@ -126,7 +126,7 @@
   {
     "id": "witcher-3",
     "name": "The Witcher 3: Wild Hunt",
-    "exeName": "redprelauncher.exe",
+    "exeName": "witcher3.exe",
     "creators": "CD PROJEKT RED",
     "pegi": "PEGI 18",
     "summary": "Hunt monsters for coin as Geralt of Rivia while searching for Ciri across a war-torn continent. A huge story-driven RPG with choices that matter.",
@@ -150,7 +150,7 @@
   {
     "id": "skyrim-se",
     "name": "The Elder Scrolls V: Skyrim Special Edition",
-    "exeName": "SkyrimSELauncher.exe",
+    "exeName": "SkyrimSE.exe",
     "creators": "Bethesda Game Studios",
     "pegi": "PEGI 18",
     "summary": "Become the Dragonborn and explore the frozen province of Skyrim. The remastered edition adds improved visuals and supports a huge mod library.",
@@ -162,7 +162,7 @@
   {
     "id": "fallout-4",
     "name": "Fallout 4",
-    "exeName": "Fallout4Launcher.exe",
+    "exeName": "Fallout4.exe",
     "creators": "Bethesda Game Studios",
     "pegi": "PEGI 18",
     "summary": "Leave the vault into a post-nuclear Boston, craft weapons, and build settlements. A sprawling RPG with deep modding support.",
@@ -174,7 +174,7 @@
   {
     "id": "baldurs-gate-3",
     "name": "Baldur's Gate 3",
-    "exeName": "LariLauncher.exe",
+    "exeName": "bg3.exe",
     "creators": "Larian Studios",
     "pegi": "PEGI 18",
     "summary": "A turn-based Dungeons & Dragons RPG about a mind-flayer infection, a party of memorable companions, and consequences for nearly every choice. Playable solo or in co-op.",
@@ -508,7 +508,7 @@
   {
     "id": "fall-guys",
     "name": "Fall Guys",
-    "exeName": "FallGuys_client.exe",
+    "exeName": "FallGuys_client_game.exe",
     "creators": "Mediatonic",
     "summary": "A party platformer where a crowd of bean-shaped contestants race through obstacle courses until one is crowned winner.",
     "steamAppId": 1097150,
@@ -593,7 +593,7 @@
   {
     "id": "assetto-corsa",
     "name": "Assetto Corsa",
-    "exeName": "AssettoCorsa.exe",
+    "exeName": "acs.exe",
     "creators": "Kunos Simulazioni",
     "pegi": "PEGI 3",
     "summary": "A next-generation driving simulator featuring an advanced DirectX 11 graphics engine that recreates an immersive driving experience with legendary tracks and official cars.",
@@ -606,7 +606,7 @@
   {
     "id": "beamng-drive",
     "name": "BeamNG.drive",
-    "exeName": "BeamNG.drive.exe",
+    "exeName": "BeamNG.drive.x64.exe",
     "creators": "BeamNG",
     "pegi": "PEGI 3",
     "summary": "A realistic, immersive driving game offering near-limitless possibilities thanks to a soft-body physics engine that simulates every component of a vehicle in real-time.",
@@ -642,7 +642,7 @@
   {
     "id": "the-witcher-2",
     "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
-    "exeName": "launcher.exe",
+    "exeName": "witcher2.exe",
     "creators": "CD PROJEKT RED",
     "pegi": "PEGI 18",
     "summary": "A mature, non-linear role-playing game featuring a deep story-driven experience and brutal tactical combat as Geralt seeks to clear his name.",
@@ -738,7 +738,7 @@
   {
     "id": "doom-eternal",
     "name": "DOOM Eternal",
-    "exeName": "idTechLauncher.exe",
+    "exeName": "DOOMEternalx64vk.exe",
     "creators": "id Software",
     "pegi": "PEGI 18",
     "summary": "Hell's armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the ultimate destruction of humanity.",
@@ -1075,7 +1075,7 @@
   {
     "id": "splinter-cell-blacklist",
     "name": "Tom Clancy's Splinter Cell: Blacklist",
-    "exeName": "Blacklist_Launcher.exe",
+    "exeName": "Blacklist_Game.exe",
     "creators": "Ubisoft Toronto",
     "pegi": "PEGI 18",
     "summary": "As head of the newly formed Fourth Echelon, stop a series of escalating terror attacks known as the Blacklist.",
@@ -1098,7 +1098,7 @@
   {
     "id": "gta-4",
     "name": "Grand Theft Auto IV",
-    "exeName": "PlayGTAIV.exe",
+    "exeName": "GTAIV.exe",
     "creators": "Rockstar North / Rockstar Games",
     "pegi": "PEGI 18",
     "summary": "Follow Niko Bellic as he arrives in Liberty City chasing the American Dream amidst crime, debt, and corruption.",
@@ -1110,7 +1110,7 @@
   {
     "id": "gta-sa",
     "name": "Grand Theft Auto: San Andreas",
-    "exeName": "gta-sa.exe",
+    "exeName": "gta_sa.exe",
     "creators": "Rockstar North",
     "pegi": "PEGI 18",
     "summary": "CJ returns home to Los Santos, San Andreas, to save his family and take back the streets in a monumental open-world classic.",
@@ -1146,7 +1146,7 @@
   {
     "id": "max-payne-3",
     "name": "Max Payne 3",
-    "exeName": "PlayMaxPayne3.exe",
+    "exeName": "MaxPayne3.exe",
     "creators": "Rockstar Games",
     "pegi": "PEGI 18",
     "summary": "A broken, cynical Max Payne takes a private security job in São Paulo, Brazil, protecting a wealthy family.",
@@ -1182,7 +1182,7 @@
   {
     "id": "la-noire",
     "name": "L.A. Noire",
-    "exeName": "PlayLAN.exe",
+    "exeName": "LANoire.exe",
     "creators": "Team Bondi / Rockstar Games",
     "pegi": "PEGI 18",
     "summary": "Solve brutal crimes in 1947 Hollywood using revolutionary facial animation technology to interrogate suspects.",
@@ -1240,7 +1240,7 @@
   {
     "id": "gta-eflc",
     "name": "Grand Theft Auto: Episodes from Liberty City",
-    "exeName": "LaunchEFLC.exe",
+    "exeName": "EFLC.exe",
     "creators": "Rockstar North",
     "pegi": "PEGI 18",
     "summary": "Includes The Lost and Damned and The Ballad of Gay Tony, two separate criminal stories set concurrently with GTA IV.",
@@ -1550,7 +1550,7 @@
   {
     "id": "sleeping-dogs",
     "name": "Sleeping Dogs: Definitive Edition",
-    "exeName": "SDHDShip.exe",
+    "exeName": "SleepingDogsDefinitiveEdition.exe",
     "creators": "United Front Games",
     "pegi": "PEGI 18",
     "summary": "Go undercover in the triads of Hong Kong in this martial-arts heavy open-world crime thriller.",
@@ -1574,7 +1574,7 @@
   {
     "id": "control",
     "name": "Control Ultimate Edition",
-    "exeName": "Control.exe",
+    "exeName": "Control_DX11.exe",
     "creators": "Remedy Entertainment",
     "pegi": "PEGI 16",
     "summary": "Use telekinetic powers and shape-shifting service weapons inside a surreal paranormal government agency.",
@@ -1731,7 +1731,7 @@
   {
     "id": "green-hell",
     "name": "Green Hell",
-    "exeName": "GH.exe",
+    "exeName": "GreenHell.exe",
     "creators": "Creepy Jar",
     "summary": "A punishing psychological survival simulator set in the unexplored depths of the Amazon rainforest.",
     "steamAppId": 815370,
@@ -1776,7 +1776,7 @@
   {
     "id": "rust",
     "name": "Rust",
-    "exeName": "rust.exe",
+    "exeName": "RustClient.exe",
     "creators": "Facepunch Studios",
     "pegi": "PEGI 18",
     "summary": "The only aim in Rust is to survive. Conquer hunger, thirst, and cold, build bases, and outlast other players.",
@@ -1800,7 +1800,7 @@
   {
     "id": "conan-exiles",
     "name": "Conan Exiles",
-    "exeName": "FuncomLauncher.exe",
+    "exeName": "ConanSandbox.exe",
     "creators": "Funcom",
     "pegi": "PEGI 18",
     "summary": "An open-world survival game set in the savage lands of Conan the Barbarian, featuring base building and brutal combat.",
@@ -1812,7 +1812,7 @@
   {
     "id": "7-days-to-die",
     "name": "7 Days to Die",
-    "exeName": "7dLauncher.exe",
+    "exeName": "7DaysToDie.exe",
     "creators": "The Fun Pimps",
     "pegi": "PEGI 18",
     "summary": "An open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games.",
@@ -1846,7 +1846,7 @@
   {
     "id": "hunt-showdown",
     "name": "Hunt: Showdown",
-    "exeName": "hunt.exe",
+    "exeName": "HuntGame.exe",
     "creators": "Crytek",
     "pegi": "PEGI 18",
     "summary": "A high-stakes tactical PvPvE bounty hunting game set in the haunted swamps of Louisiana.",
@@ -1895,7 +1895,7 @@
   {
     "id": "arma-3",
     "name": "Arma 3",
-    "exeName": "arma3launcher.exe",
+    "exeName": "arma3_x64.exe",
     "creators": "Bohemia Interactive",
     "pegi": "PEGI 16",
     "summary": "Experience true combat gameplay in a massive military sandbox spanning vast terrain islands.",
@@ -1955,7 +1955,7 @@
   {
     "id": "borderlands-2",
     "name": "Borderlands 2",
-    "exeName": "Launcher.exe",
+    "exeName": "Borderlands2.exe",
     "creators": "Gearbox Software",
     "pegi": "PEGI 18",
     "summary": "Play as one of four new vault hunters facing off against a massive universe of loot, guns, and the tyrannical Handsome Jack.",
@@ -1979,7 +1979,7 @@
   {
     "id": "borderlands-pre-sequel",
     "name": "Borderlands: The Pre-Sequel",
-    "exeName": "Launcher.exe",
+    "exeName": "BorderlandsPreSequel.exe",
     "creators": "2K Australia / Gearbox",
     "pegi": "PEGI 18",
     "summary": "Discover the story behind Borderlands 2 villain Handsome Jack while bounding across Pandora's moon with low-gravity mechanics.",
@@ -2104,7 +2104,7 @@
   {
     "id": "destiny-2",
     "name": "Destiny 2",
-    "exeName": "destiny2launcher.exe",
+    "exeName": "destiny2.exe",
     "steamAppId": 1085660,
     "store": "Steam"
   },
@@ -2132,7 +2132,7 @@
   {
     "id": "fallout-new-vegas",
     "name": "Fallout: New Vegas",
-    "exeName": "FalloutNVLauncher.exe",
+    "exeName": "FalloutNV.exe",
     "steamAppId": 22380,
     "store": "Steam"
   },
@@ -2153,28 +2153,28 @@
   {
     "id": "the-elder-scrolls-v-skyrim",
     "name": "The Elder Scrolls V: Skyrim",
-    "exeName": "SkyrimLauncher.exe",
+    "exeName": "TESV.exe",
     "steamAppId": 72850,
     "store": "Steam"
   },
   {
     "id": "the-elder-scrolls-iv-oblivion",
     "name": "The Elder Scrolls IV: Oblivion",
-    "exeName": "OblivionLauncher.exe",
+    "exeName": "Oblivion.exe",
     "steamAppId": 22330,
     "store": "Steam"
   },
   {
     "id": "the-elder-scrolls-iii-morrowind",
     "name": "The Elder Scrolls III: Morrowind",
-    "exeName": "Morrowind Launcher.exe",
+    "exeName": "Morrowind.exe",
     "steamAppId": 22320,
     "store": "Steam"
   },
   {
     "id": "the-elder-scrolls-online",
     "name": "The Elder Scrolls Online",
-    "exeName": "zosSteamStarter.exe",
+    "exeName": "eso64.exe",
     "steamAppId": 306130,
     "store": "Steam"
   },
@@ -2328,7 +2328,7 @@
   {
     "id": "crusader-kings-iii",
     "name": "Crusader Kings III",
-    "exeName": "dowser.exe",
+    "exeName": "ck3.exe",
     "steamAppId": 1158310,
     "store": "Steam"
   },
@@ -2342,7 +2342,7 @@
   {
     "id": "victoria-3",
     "name": "Victoria 3",
-    "exeName": "dowser.exe",
+    "exeName": "victoria3.exe",
     "steamAppId": 529340,
     "store": "Steam"
   },
@@ -2384,21 +2384,21 @@
   {
     "id": "total-war-three-kingdoms",
     "name": "Total War: THREE KINGDOMS",
-    "exeName": "launcher.exe",
+    "exeName": "Three_Kingdoms.exe",
     "steamAppId": 779340,
     "store": "Steam"
   },
   {
     "id": "total-war-rome-ii",
     "name": "Total War: ROME II",
-    "exeName": "launcher.exe",
+    "exeName": "Rome2.exe",
     "steamAppId": 214950,
     "store": "Steam"
   },
   {
     "id": "total-war-attila",
     "name": "Total War: ATTILA",
-    "exeName": "launcher.exe",
+    "exeName": "Attila.exe",
     "steamAppId": 325610,
     "store": "Steam"
   },
@@ -2412,7 +2412,7 @@
   {
     "id": "total-war-shogun-2",
     "name": "Total War: SHOGUN 2",
-    "exeName": "launcher.exe",
+    "exeName": "Shogun2.exe",
     "steamAppId": 34330,
     "store": "Steam"
   },
@@ -2468,7 +2468,7 @@
   {
     "id": "divinity-original-sin-2",
     "name": "Divinity: Original Sin 2",
-    "exeName": "SupportTool.exe",
+    "exeName": "EoCApp.exe",
     "steamAppId": 435150,
     "store": "Steam"
   },
@@ -2573,14 +2573,14 @@
   {
     "id": "final-fantasy-vii-remake-intergrade",
     "name": "Final Fantasy VII Remake Intergrade",
-    "exeName": "ff7remake.exe",
+    "exeName": "ff7remake_.exe",
     "steamAppId": 1462040,
     "store": "Steam"
   },
   {
     "id": "final-fantasy-vii-rebirth",
     "name": "Final Fantasy VII Rebirth",
-    "exeName": "ff7rebirth.exe",
+    "exeName": "ff7rebirth_.exe",
     "steamAppId": 2909400,
     "store": "Steam"
   },
@@ -2594,7 +2594,7 @@
   {
     "id": "final-fantasy-xiv-online",
     "name": "Final Fantasy XIV Online",
-    "exeName": "ffxivboot.exe",
+    "exeName": "ffxiv_dx11.exe",
     "steamAppId": 39210,
     "store": "Steam"
   },
@@ -2678,14 +2678,14 @@
   {
     "id": "returnal",
     "name": "Returnal",
-    "exeName": "Launcher.exe",
+    "exeName": "Returnal.exe",
     "steamAppId": 1649240,
     "store": "Steam"
   },
   {
     "id": "days-gone",
     "name": "Days Gone",
-    "exeName": "DaysGone.exe",
+    "exeName": "BendGame.exe",
     "steamAppId": 1259420,
     "store": "Steam"
   },
@@ -2784,7 +2784,7 @@
   {
     "id": "far-cry-3",
     "name": "Far Cry 3",
-    "exeName": "FC3UpdaterSteam.exe",
+    "exeName": "farcry3.exe",
     "steamAppId": 220240,
     "store": "Steam"
   },
@@ -2875,7 +2875,7 @@
   {
     "id": "sea-of-thieves",
     "name": "Sea of Thieves",
-    "exeName": "SeaOfThieves.exe",
+    "exeName": "SoTGame.exe",
     "steamAppId": 1172620,
     "store": "Steam"
   },
@@ -3057,7 +3057,7 @@
   {
     "id": "ftl-faster-than-light",
     "name": "FTL: Faster Than Light",
-    "exeName": "FTLGame.exe",
+    "exeName": "FTL.exe",
     "steamAppId": 212680,
     "store": "Steam"
   },
@@ -3155,7 +3155,7 @@
   {
     "id": "the-witness",
     "name": "The Witness",
-    "exeName": "witness_d3d11.exe",
+    "exeName": "witness64_d3d11.exe",
     "steamAppId": 210970,
     "store": "Steam"
   },
@@ -3197,7 +3197,7 @@
   {
     "id": "the-wolf-among-us",
     "name": "The Wolf Among Us",
-    "exeName": "TheWolfAmongUs.exe",
+    "exeName": "WolfAmongUs.exe",
     "steamAppId": 250320,
     "store": "Steam"
   },
@@ -3218,7 +3218,7 @@
   {
     "id": "mount-and-blade-ii-bannerlord",
     "name": "Mount & Blade II: Bannerlord",
-    "exeName": "TaleWorlds.MountAndBlade.Launcher.exe",
+    "exeName": "Bannerlord.exe",
     "steamAppId": 261550,
     "store": "Steam"
   },
@@ -3232,7 +3232,7 @@
   {
     "id": "chivalry-2",
     "name": "Chivalry 2",
-    "exeName": "Chivalry2Launcher.exe",
+    "exeName": "Chivalry2.exe",
     "steamAppId": 1824220,
     "store": "Steam"
   },
@@ -3274,7 +3274,7 @@
   {
     "id": "warhammer-40-000-darktide",
     "name": "Warhammer 40,000: Darktide",
-    "exeName": "launcher.exe",
+    "exeName": "Darktide.exe",
     "steamAppId": 1361210,
     "store": "Steam"
   },
@@ -3302,7 +3302,7 @@
   {
     "id": "pummel-party",
     "name": "Pummel Party",
-    "exeName": "PummelParty.exe",
+    "exeName": "Pummel Party.exe",
     "steamAppId": 880940,
     "store": "Steam"
   },
@@ -3337,7 +3337,7 @@
   {
     "id": "totally-accurate-battle-simulator",
     "name": "Totally Accurate Battle Simulator",
-    "exeName": "TotallyAccurateBattleSimulator.exe",
+    "exeName": "TABS.exe",
     "steamAppId": 508440,
     "store": "Steam"
   },
@@ -3358,7 +3358,7 @@
   {
     "id": "elite-dangerous",
     "name": "Elite Dangerous",
-    "exeName": "EDLaunch.exe",
+    "exeName": "EliteDangerous64.exe",
     "steamAppId": 359320,
     "store": "Steam"
   },
@@ -3393,21 +3393,21 @@
   {
     "id": "albion-online",
     "name": "Albion Online",
-    "exeName": "AlbionLauncher.exe",
+    "exeName": "Albion-Online.exe",
     "steamAppId": 761890,
     "store": "Steam"
   },
   {
     "id": "black-desert",
     "name": "Black Desert",
-    "exeName": "BlackDesertLauncher.exe",
+    "exeName": "BlackDesert64.exe",
     "steamAppId": 582660,
     "store": "Steam"
   },
   {
     "id": "lost-ark",
     "name": "Lost Ark",
-    "exeName": "start_protected_game.exe",
+    "exeName": "LOSTARK.exe",
     "steamAppId": 1599340,
     "store": "Steam"
   },
@@ -3470,7 +3470,7 @@
   {
     "id": "baldurs-gate-ii-enhanced-edition",
     "name": "Baldur's Gate II: Enhanced Edition",
-    "exeName": "Baldur.exe",
+    "exeName": "BaldursGateII.exe",
     "steamAppId": 257350,
     "store": "Steam"
   },
@@ -3491,7 +3491,7 @@
   {
     "id": "torchlight-ii",
     "name": "Torchlight II",
-    "exeName": "ModLauncher.exe",
+    "exeName": "Torchlight2.exe",
     "steamAppId": 200710,
     "store": "Steam"
   },
@@ -3554,7 +3554,7 @@
   {
     "id": "dishonored-death-of-the-outsider",
     "name": "Dishonored: Death of the Outsider",
-    "exeName": "Dishonored_DO.exe",
+    "exeName": "DishonoredDOTO.exe",
     "steamAppId": 614570,
     "store": "Steam"
   },
@@ -3610,14 +3610,14 @@
   {
     "id": "hitman",
     "name": "HITMAN",
-    "exeName": "Launcher.exe",
+    "exeName": "HITMAN.exe",
     "steamAppId": 236870,
     "store": "Steam"
   },
   {
     "id": "hitman-2",
     "name": "HITMAN 2",
-    "exeName": "Launcher.exe",
+    "exeName": "HITMAN2.exe",
     "steamAppId": 863550,
     "store": "Steam"
   },
@@ -3736,7 +3736,7 @@
   {
     "id": "saints-row-the-third",
     "name": "Saints Row: The Third",
-    "exeName": "game_launcher.exe",
+    "exeName": "SaintsRowTheThird_DX11.exe",
     "steamAppId": 55230,
     "store": "Steam"
   },
@@ -3757,7 +3757,7 @@
   {
     "id": "red-faction-guerrilla-re-mars-tered",
     "name": "Red Faction Guerrilla Re-Mars-tered",
-    "exeName": "rfg.exe",
+    "exeName": "RFGR.exe",
     "steamAppId": 667720,
     "store": "Steam"
   },
@@ -3820,7 +3820,7 @@
   {
     "id": "outlast",
     "name": "Outlast",
-    "exeName": "OutlastLauncher.exe",
+    "exeName": "OLGame.exe",
     "steamAppId": 238320,
     "store": "Steam"
   },
@@ -3848,7 +3848,7 @@
   {
     "id": "the-evil-within-2",
     "name": "The Evil Within 2",
-    "exeName": "TEW2.exe",
+    "exeName": "EvilWithin2.exe",
     "steamAppId": 601430,
     "store": "Steam"
   },
@@ -3869,7 +3869,7 @@
   {
     "id": "assetto-corsa-competizione",
     "name": "Assetto Corsa Competizione",
-    "exeName": "acc.exe",
+    "exeName": "AC2-Win64-Shipping.exe",
     "steamAppId": 805550,
     "store": "Steam"
   },
@@ -3897,7 +3897,7 @@
   {
     "id": "f1-2021",
     "name": "F1 2021",
-    "exeName": "F1_2021_dx12.exe",
+    "exeName": "F1_2021.exe",
     "steamAppId": 1134570,
     "store": "Steam"
   },
@@ -3911,7 +3911,7 @@
   {
     "id": "dirt-rally",
     "name": "DiRT Rally",
-    "exeName": "drt.exe",
+    "exeName": "dirtrally.exe",
     "steamAppId": 310560,
     "store": "Steam"
   },
@@ -3953,7 +3953,7 @@
   {
     "id": "art-of-rally",
     "name": "art of rally",
-    "exeName": "artofrally.exe",
+    "exeName": "Art of Rally.exe",
     "steamAppId": 550320,
     "store": "Steam"
   },
@@ -3981,7 +3981,7 @@
   {
     "id": "farming-simulator-25",
     "name": "Farming Simulator 25",
-    "exeName": "FarmingSimulator2025.exe",
+    "exeName": "FarmingSimulator2025Game.exe",
     "steamAppId": 2300320,
     "store": "Steam"
   },
@@ -4002,7 +4002,7 @@
   {
     "id": "car-mechanic-simulator-2018",
     "name": "Car Mechanic Simulator 2018",
-    "exeName": "cms2018.exe",
+    "exeName": "Car Mechanic Simulator 2018.exe",
     "steamAppId": 645630,
     "store": "Steam"
   },
@@ -4016,7 +4016,7 @@
   {
     "id": "goat-simulator",
     "name": "Goat Simulator",
-    "exeName": "GoatGame-Win32-Shipping.exe",
+    "exeName": "GoatGame.exe",
     "steamAppId": 265930,
     "store": "Steam"
   },
@@ -4145,14 +4145,14 @@
   {
     "id": "deaths-door",
     "name": "Death's Door",
-    "exeName": "DeathsDoor.exe",
+    "exeName": "Deaths Door.exe",
     "steamAppId": 894020,
     "store": "Steam"
   },
   {
     "id": "salt-and-sanctuary",
     "name": "Salt and Sanctuary",
-    "exeName": "salt.exe",
+    "exeName": "SaltAndSanctuary.exe",
     "steamAppId": 283640,
     "store": "Steam"
   },
@@ -4229,7 +4229,7 @@
   {
     "id": "metal-gear-solid-v-ground-zeroes",
     "name": "Metal Gear Solid V: Ground Zeroes",
-    "exeName": "MgsGroundZeroes.exe",
+    "exeName": "mgsvgz.exe",
     "steamAppId": 311340,
     "store": "Steam"
   },
@@ -4264,7 +4264,7 @@
   {
     "id": "dragon-ball-z-kakarot",
     "name": "Dragon Ball Z: Kakarot",
-    "exeName": "AT.exe",
+    "exeName": "DBZK.exe",
     "steamAppId": 851850,
     "store": "Steam"
   },
@@ -4433,7 +4433,7 @@
   {
     "id": "gloomhaven",
     "name": "Gloomhaven",
-    "exeName": "GH.exe",
+    "exeName": "Gloomhaven.exe",
     "steamAppId": 780290,
     "store": "Steam"
   },
@@ -4454,7 +4454,7 @@
   {
     "id": "galactic-civilizations-iii",
     "name": "Galactic Civilizations III",
-    "exeName": "StardockLauncher.exe",
+    "exeName": "GalCiv3.exe",
     "steamAppId": 226860,
     "store": "Steam"
   },
@@ -4538,7 +4538,7 @@
   {
     "id": "wizard-of-legend",
     "name": "Wizard of Legend",
-    "exeName": "WizardOfLegend.exe",
+    "exeName": "Wizard of Legend.exe",
     "steamAppId": 445980,
     "store": "Steam"
   },
@@ -4622,7 +4622,7 @@
   {
     "id": "vrchat",
     "name": "VRChat",
-    "exeName": "launch.exe",
+    "exeName": "VRChat.exe",
     "steamAppId": 438100,
     "store": "Steam"
   },
@@ -4636,7 +4636,7 @@
   {
     "id": "sniper-elite-4",
     "name": "Sniper Elite 4",
-    "exeName": "SniperElite4.exe",
+    "exeName": "SniperElite4_DX11.exe",
     "steamAppId": 312660,
     "store": "Steam"
   },
@@ -4650,7 +4650,7 @@
   {
     "id": "gears-5",
     "name": "Gears 5",
-    "exeName": "Gears5_EAC.exe",
+    "exeName": "Gears5.exe",
     "steamAppId": 1097840,
     "store": "Steam"
   },
@@ -4678,14 +4678,14 @@
   {
     "id": "mega-man-11",
     "name": "Mega Man 11",
-    "exeName": "game.exe",
+    "exeName": "megaman11.exe",
     "steamAppId": 742300,
     "store": "Steam"
   },
   {
     "id": "dragon-ball-xenoverse-2",
     "name": "Dragon Ball Xenoverse 2",
-    "exeName": "START.exe",
+    "exeName": "DBXV2.exe",
     "steamAppId": 454650,
     "store": "Steam"
   },
@@ -4713,21 +4713,21 @@
   {
     "id": "valkyria-chronicles",
     "name": "Valkyria Chronicles",
-    "exeName": "Launcher.exe",
+    "exeName": "Valkyria.exe",
     "steamAppId": 294860,
     "store": "Steam"
   },
   {
     "id": "final-fantasy-vii",
     "name": "Final Fantasy VII",
-    "exeName": "FF7_Launcher.exe",
+    "exeName": "ff7_en.exe",
     "steamAppId": 39140,
     "store": "Steam"
   },
   {
     "id": "final-fantasy-viii",
     "name": "Final Fantasy VIII",
-    "exeName": "FF8_Launcher.exe",
+    "exeName": "FF8_EN.exe",
     "steamAppId": 39150,
     "store": "Steam"
   },
@@ -4783,7 +4783,7 @@
   {
     "id": "age-of-wonders-iii",
     "name": "Age of Wonders III",
-    "exeName": "AoW3Launcher.exe",
+    "exeName": "AoW3.exe",
     "steamAppId": 226840,
     "store": "Steam"
   },
@@ -4818,7 +4818,7 @@
   {
     "id": "doom-the-dark-ages",
     "name": "DOOM: The Dark Ages",
-    "exeName": "idTechLauncher.exe",
+    "exeName": "DOOMTheDarkAges.exe",
     "steamAppId": 3017860,
     "store": "Steam"
   },
@@ -4882,7 +4882,7 @@
   {
     "id": "arma-reforger",
     "name": "Arma Reforger",
-    "exeName": "ArmaReforger_BE.exe",
+    "exeName": "ArmaReforger.exe",
     "steamAppId": 1874880,
     "store": "Steam"
   },
@@ -4994,7 +4994,7 @@
   {
     "id": "from-the-depths",
     "name": "From the Depths",
-    "exeName": "From_The_Depths.exe",
+    "exeName": "From The Depths.exe",
     "steamAppId": 268650,
     "store": "Steam"
   },
@@ -5015,7 +5015,7 @@
   {
     "id": "planetside-2",
     "name": "PlanetSide 2",
-    "exeName": "LaunchPad.exe",
+    "exeName": "PlanetSide2_x64.exe",
     "steamAppId": 218230,
     "store": "Steam"
   },
@@ -5029,7 +5029,7 @@
   {
     "id": "dead-island-riptide",
     "name": "Dead Island Riptide",
-    "exeName": "DeadIslandGame_x86_rwdi.exe",
+    "exeName": "DeadIslandRiptideGame.exe",
     "steamAppId": 216250,
     "store": "Steam"
   },
@@ -5187,7 +5187,7 @@
   {
     "id": "scum",
     "name": "SCUM",
-    "exeName": "SCUM_Launcher.exe",
+    "exeName": "SCUM.exe",
     "steamAppId": 513710,
     "store": "Steam"
   },
@@ -5257,7 +5257,7 @@
   {
     "id": "guilty-gear-strive",
     "name": "Guilty Gear -Strive-",
-    "exeName": "GGST.exe",
+    "exeName": "GGST-Win64-Shipping.exe",
     "steamAppId": 1384160,
     "store": "Steam"
   },
@@ -5271,14 +5271,14 @@
   {
     "id": "rivals-of-aether",
     "name": "Rivals of Aether",
-    "exeName": "RivalsofAether.exe",
+    "exeName": "Rivals of Aether.exe",
     "steamAppId": 383980,
     "store": "Steam"
   },
   {
     "id": "victoria-ii",
     "name": "Victoria II",
-    "exeName": "victoria2.exe",
+    "exeName": "v2game.exe",
     "steamAppId": 42960,
     "store": "Steam"
   },
@@ -5356,2500 +5356,5 @@
     "store": "Steam",
     "genres": ["Sports", "Simulation"],
     "year": 2026
-  },
-  {
-    "id": "fm-24",
-    "name": "Football Manager 2024",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "The most complete version in the series to date, bringing J.League licenses, squad building improvements, and save game carry-forward capability.",
-    "steamAppId": 2252570,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports", "Strategy"],
-    "year": 2023
-  },
-  {
-    "id": "fm-23",
-    "name": "Football Manager 2023",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Deepen your connection with the fans and the board with upgraded recruitment planning and UEFA club competitions.",
-    "steamAppId": 1904540,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2022
-  },
-  {
-    "id": "fm-22",
-    "name": "Football Manager 2022",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Find new ways to come out on top and instill your footballing philosophy with fresh data-hub analytics and a revamped deadline day experience.",
-    "steamAppId": 1569040,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2021
-  },
-  {
-    "id": "fm-21",
-    "name": "Football Manager 2021",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Dynamic, realistic management experiences with enhanced matchday interactions, expected goals (xG) metrics, and revamped club communications.",
-    "steamAppId": 1263850,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2020
-  },
-  {
-    "id": "fm-20",
-    "name": "Football Manager 2020",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Run your club your way with new features focused on long-term club planning, player pathways, and developmental tracking.",
-    "steamAppId": 1100740,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2019
-  },
-  {
-    "id": "fm-19",
-    "name": "Football Manager 2019",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Take control of your club like never before with overhauled tactical customization, pre-season training modules, and the Bundesliga license debut.",
-    "steamAppId": 872790,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2018
-  },
-  {
-    "id": "fm-18",
-    "name": "Football Manager 2018",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "A renewed focus on club dynamics, sports science, and realistic transfer market interactions.",
-    "steamAppId": 624090,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2017
-  },
-  {
-    "id": "fm-17",
-    "name": "Football Manager 2017",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Immerse yourself in the most realistic football management world with enhanced manager persona tools and social media feeds.",
-    "steamAppId": 482700,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2016
-  },
-  {
-    "id": "fm-16",
-    "name": "Football Manager 2016",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Express your unique personality with the 'Create-A-Manager' touch and experience new game modes like Fantasy Draft and Manager vs. Manager.",
-    "steamAppId": 388080,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2015
-  },
-  {
-    "id": "fm-15",
-    "name": "Football Manager 2015",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Deeper manager styles, more realistic player interactions, a revamped user interface, and improved 3D match engine.",
-    "steamAppId": 295270,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2014
-  },
-  {
-    "id": "fm-14",
-    "name": "Football Manager 2014",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Featuring thousands of improvements to the match engine, realistic board interactions, and streamlined interface elements.",
-    "steamAppId": 231620,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2013
-  },
-  {
-    "id": "fm-13",
-    "name": "Football Manager 2013",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Introduced 'Classic' mode for streamlined management alongside the traditional deep simulation experience, plus a revamped Director of Football role.",
-    "steamAppId": 207610,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2012
-  },
-  {
-    "id": "fm-12",
-    "name": "Football Manager 2012",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Enhanced scouting system, improved match engine lighting, team talks with tone options, and rapid league loading features.",
-    "steamAppId": 201270,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2011
-  },
-  {
-    "id": "fm-11",
-    "name": "Football Manager 2011",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Brought live contract negotiations, improved lighting in 3D matches, and a revamped training system.",
-    "steamAppId": 34160,
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2010
-  },
-  {
-    "id": "fm-10",
-    "name": "Football Manager 2010",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Featuring a brand-new user interface, tactical creator tool, and a completely integrated match analysis tool.",
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2009
-  },
-  {
-    "id": "fm-09",
-    "name": "Football Manager 2009",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "The landmark edition that introduced a fully 3D match engine for the first time alongside a female assistant manager option.",
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2008
-  },
-  {
-    "id": "fm-08",
-    "name": "Football Manager 2008",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Refined international management, enhanced fan day-to-day feedback, and a revamped skin layout.",
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2007
-  },
-  {
-    "id": "fm-07",
-    "name": "Football Manager 2007",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Introduced feeder club relationships, board confidence metrics, and deeper player interaction dynamics.",
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2006
-  },
-  {
-    "id": "fm-06",
-    "name": "Football Manager 2006",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "Streamlined half-time team talks, improved contract negotiations, and enhanced media interaction.",
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2005
-  },
-  {
-    "id": "fm-05",
-    "name": "Football Manager 2005",
-    "exeName": "fm.exe",
-    "creators": "Sports Interactive / SEGA",
-    "pegi": "PEGI 3",
-    "summary": "The inaugural game under the Football Manager brand following the split from Eidos and Championship Manager.",
-    "store": "Steam",
-    "genres": ["Simulation", "Sports"],
-    "year": 2004
-  },
-  {
-    "id": "marvel-rivals",
-    "name": "Marvel Rivals",
-    "exeName": "MarvelRivals_Launcher.exe",
-    "creators": "NetEase Games",
-    "steamAppId": 2767030,
-    "store": "Steam",
-    "genres": ["Shooter", "Competitive", "Multiplayer"],
-    "year": 2024
-  },
-  {
-    "id": "call-of-duty",
-    "name": "Call of Duty",
-    "exeName": "bootstrapper.exe",
-    "creators": "Activision",
-    "steamAppId": 1938090,
-    "store": "Steam",
-    "genres": ["Shooter", "Multiplayer", "Battle royale"],
-    "year": 2022
-  },
-  {
-    "id": "call-of-duty-black-ops-6",
-    "name": "Call of Duty: Black Ops 6",
-    "exeName": "cod.exe",
-    "creators": "Treyarch / Raven Software",
-    "steamAppId": 2933620,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2024
-  },
-  {
-    "id": "call-of-duty-black-ops-iii",
-    "name": "Call of Duty: Black Ops III",
-    "exeName": "BlackOps3.exe",
-    "creators": "Treyarch",
-    "steamAppId": 311210,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2015
-  },
-  {
-    "id": "call-of-duty-black-ops",
-    "name": "Call of Duty: Black Ops",
-    "exeName": "BlackOps.exe",
-    "creators": "Treyarch",
-    "steamAppId": 42700,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2010
-  },
-  {
-    "id": "call-of-duty-black-ops-ii",
-    "name": "Call of Duty: Black Ops II",
-    "exeName": "t6sp.exe",
-    "creators": "Treyarch",
-    "steamAppId": 202970,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2012
-  },
-  {
-    "id": "call-of-duty-black-ops-cold-war",
-    "name": "Call of Duty: Black Ops Cold War",
-    "exeName": "BlackOpsColdWar.exe",
-    "creators": "Treyarch / Raven Software",
-    "steamAppId": 1985810,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2020
-  },
-  {
-    "id": "call-of-duty-4-modern-warfare",
-    "name": "Call of Duty 4: Modern Warfare",
-    "exeName": "iw3sp.exe",
-    "creators": "Infinity Ward",
-    "steamAppId": 7940,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2007
-  },
-  {
-    "id": "call-of-duty-modern-warfare-2-2009",
-    "name": "Call of Duty: Modern Warfare 2 (2009)",
-    "exeName": "iw4sp.exe",
-    "creators": "Infinity Ward",
-    "steamAppId": 10180,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2009
-  },
-  {
-    "id": "call-of-duty-modern-warfare-3-2011",
-    "name": "Call of Duty: Modern Warfare 3 (2011)",
-    "exeName": "iw5sp.exe",
-    "creators": "Infinity Ward / Sledgehammer Games",
-    "steamAppId": 42680,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2011
-  },
-  {
-    "id": "call-of-duty-world-at-war",
-    "name": "Call of Duty: World at War",
-    "exeName": "CoDWaW.exe",
-    "creators": "Treyarch",
-    "steamAppId": 10090,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2008
-  },
-  {
-    "id": "call-of-duty-infinite-warfare",
-    "name": "Call of Duty: Infinite Warfare",
-    "exeName": "iw7_ship.exe",
-    "creators": "Infinity Ward",
-    "steamAppId": 292730,
-    "store": "Steam",
-    "genres": ["Shooter", "Sci-fi"],
-    "year": 2016
-  },
-  {
-    "id": "call-of-duty-advanced-warfare",
-    "name": "Call of Duty: Advanced Warfare",
-    "exeName": "s1_sp64_ship.exe",
-    "creators": "Sledgehammer Games",
-    "steamAppId": 209650,
-    "store": "Steam",
-    "genres": ["Shooter", "Sci-fi"],
-    "year": 2014
-  },
-  {
-    "id": "call-of-duty-ghosts",
-    "name": "Call of Duty: Ghosts",
-    "exeName": "iw6sp64_ship.exe",
-    "creators": "Infinity Ward",
-    "steamAppId": 209160,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2013
-  },
-  {
-    "id": "call-of-duty-wwii",
-    "name": "Call of Duty: WWII",
-    "exeName": "s2_sp64_ship.exe",
-    "creators": "Sledgehammer Games",
-    "steamAppId": 476600,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2017
-  },
-{
-    "id": "call-of-duty-modern-warfare-2019",
-    "name": "Call of Duty: Modern Warfare (2019)",
-    "exeName": "bootstrapper.exe",
-    "creators": "Infinity Ward / Activision",
-    "pegi": "PEGI 18",
-    "summary": "A visceral and dramatic single-player story campaign alongside high-octane multiplayer and cooperative Special Ops missions.",
-    "steamAppId": 2000950,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2019
-  },
-  {
-    "id": "call-of-duty-vanguard",
-    "name": "Call of Duty: Vanguard",
-    "exeName": "bootstrapper.exe",
-    "creators": "Sledgehammer Games / Activision",
-    "pegi": "PEGI 18",
-    "summary": "Rise on every front in WWII: dogfight over the Pacific, airdrop over France, defend Stalingrad, and blast through advancing forces in North Africa.",
-    "steamAppId": 1985820,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2021
-  },
-  {
-    "id": "call-of-duty-modern-warfare-ii-2022",
-    "name": "Call of Duty: Modern Warfare II (2022)",
-    "exeName": "bootstrapper.exe",
-    "creators": "Infinity Ward / Activision",
-    "pegi": "PEGI 18",
-    "summary": "Task Force 141 returns in a global campaign, featuring upgraded gun handling, advanced AI, and connected multiplayer progression.",
-    "steamAppId": 1938090,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2022
-  },
-  {
-    "id": "call-of-duty-modern-warfare-iii-2023",
-    "name": "Call of Duty: Modern Warfare III (2023)",
-    "exeName": "cod.exe",
-    "creators": "Sledgehammer Games / Activision",
-    "pegi": "PEGI 18",
-    "summary": "Captain Price and Task Force 141 face off against the ultimate threat, ultranationalist Vladimir Makarov, alongside remastered classic multiplayer maps.",
-    "steamAppId": 2519060,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2023
-  },
-  {
-    "id": "call-of-duty-modern-warfare-4",
-    "name": "Call of Duty: Modern Warfare 4",
-    "exeName": "cod.exe",
-    "creators": "Infinity Ward / Activision",
-    "pegi": "PEGI 18",
-    "summary": "The definitive next chapter in the Modern Warfare storyline featuring cutting-edge tactical gunplay, open-combat campaign operations, and next-gen multiplayer.",
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "coverUrl": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw4/play-now/MW4LP_BuyNow_MW4.webp",
-    "year": 2026
-  },
-  {
-    "id": "call-of-duty-2",
-    "name": "Call of Duty 2",
-    "exeName": "CoD2SP.exe",
-    "creators": "Infinity Ward / Activision",
-    "pegi": "PEGI 16",
-    "summary": "Redefining the WWII action genre with stunning visuals, realistic weather effects, smoke cover, and intense squad combat across multiple historic fronts.",
-    "steamAppId": 2630,
-    "store": "Steam",
-    "genres": ["Shooter", "Action"],
-    "year": 2005
-  },
-  {
-    "id": "call-of-duty-3",
-    "name": "Call of Duty 3",
-    "exeName": "CoD3.exe",
-    "creators": "Treyarch / Activision",
-    "pegi": "PEGI 16",
-    "summary": "Follow the Normandy Breakout campaign as Allied forces fight through the French countryside to liberate Paris.",
-    "store": "Activision",
-    "genres": ["Shooter", "Action"],
-    "year": 2006
-  },
-  {
-    "id": "call-of-duty-black-ops-4",
-    "name": "Call of Duty: Black Ops 4",
-    "exeName": "BlackOps4.exe",
-    "creators": "Treyarch / Activision",
-    "pegi": "PEGI 18",
-    "summary": "Features gritty, grounded tactical multiplayer combat, three full Zombies experiences at launch, and Blackout—a massive battle royale mode.",
-    "store": "Battle.net",
-    "genres": ["Shooter", "Battle royale", "Multiplayer"],
-    "year": 2018
-  },
-  {
-    "id": "battlefield-6",
-    "name": "Battlefield 6",
-    "exeName": "bf6.exe",
-    "creators": "Battlefield Studios / EA",
-    "steamAppId": 2807960,
-    "store": "Steam",
-    "genres": ["Shooter", "Multiplayer"],
-    "coverUrl": "https://cdn2.steamgriddb.com/thumb/45713287ba01bb2c9dfa4a9c486e4cc9.jpg",
-    "year": 2025
-  },
-  {
-    "id": "battlefield-bad-company-2",
-    "name": "Battlefield: Bad Company 2",
-    "exeName": "BFBC2Game.exe",
-    "creators": "DICE",
-    "steamAppId": 24960,
-    "store": "Steam",
-    "genres": ["Shooter", "Multiplayer"],
-    "year": 2010
-  },
-  {
-    "id": "star-wars-jedi-fallen-order",
-    "name": "Star Wars Jedi: Fallen Order",
-    "exeName": "SwGame-Win64-Shipping.exe",
-    "creators": "Respawn Entertainment",
-    "steamAppId": 1172380,
-    "store": "Steam",
-    "genres": ["Action", "Adventure", "Sci-fi"],
-    "year": 2019
-  },
-  {
-    "id": "star-wars-jedi-survivor",
-    "name": "Star Wars Jedi: Survivor",
-    "exeName": "JediSurvivor.exe",
-    "creators": "Respawn Entertainment",
-    "steamAppId": 1774580,
-    "store": "Steam",
-    "genres": ["Action", "Adventure", "Sci-fi"],
-    "year": 2023
-  },
-  {
-    "id": "star-wars-squadrons",
-    "name": "Star Wars: Squadrons",
-    "exeName": "starwarssquadrons_launcher.exe",
-    "creators": "Motive Studio",
-    "steamAppId": 1222730,
-    "store": "Steam",
-    "genres": ["Shooter", "Sci-fi", "Multiplayer"],
-    "year": 2020
-  },
-  {
-    "id": "lies-of-p",
-    "name": "Lies of P",
-    "exeName": "LOP.exe",
-    "creators": "Neowiz / Round8 Studio",
-    "steamAppId": 1627720,
-    "store": "Steam",
-    "genres": ["Souls-like", "Action", "RPG"],
-    "year": 2023
-  },
-  {
-    "id": "the-finals",
-    "name": "The Finals",
-    "exeName": "Discovery.exe",
-    "creators": "Embark Studios",
-    "steamAppId": 2073850,
-    "store": "Steam",
-    "genres": ["Shooter", "Competitive", "Multiplayer"],
-    "year": 2023
-  },
-  {
-    "id": "deadlock",
-    "name": "Deadlock",
-    "exeName": "project8.exe",
-    "creators": "Valve",
-    "steamAppId": 1422450,
-    "store": "Steam",
-    "genres": ["Shooter", "MOBA", "Competitive"],
-    "year": 2024
-  },
-  {
-    "id": "delta-force",
-    "name": "Delta Force",
-    "exeName": "df_launcher.exe",
-    "creators": "TiMi Studio Group",
-    "steamAppId": 2507950,
-    "store": "Steam",
-    "genres": ["Shooter", "Multiplayer", "Tactical"],
-    "year": 2024
-  },
-  {
-    "id": "arc-raiders",
-    "name": "ARC Raiders",
-    "exeName": "PioneerGame.exe",
-    "creators": "Embark Studios",
-    "steamAppId": 1808500,
-    "store": "Steam",
-    "genres": ["Shooter", "Co-op", "Sci-fi"],
-    "year": 2025
-  },
-  {
-    "id": "warframe",
-    "name": "Warframe",
-    "exeName": "Launcher.exe",
-    "creators": "Digital Extremes",
-    "steamAppId": 230410,
-    "store": "Steam",
-    "genres": ["Shooter", "Co-op", "Sci-fi"],
-    "year": 2013
-  },
-  {
-    "id": "path-of-exile-2",
-    "name": "Path of Exile 2",
-    "exeName": "PathOfExileSteam.exe",
-    "creators": "Grinding Gear Games",
-    "steamAppId": 2694490,
-    "store": "Steam",
-    "genres": ["RPG", "Hack-and-slash", "Fantasy"],
-    "year": 2024
-  },
-  {
-    "id": "the-elder-scrolls-iv-oblivion-remastered",
-    "name": "The Elder Scrolls IV: Oblivion Remastered",
-    "exeName": "OblivionRemastered.exe",
-    "creators": "Virtuos / Bethesda Game Studios",
-    "steamAppId": 2623190,
-    "store": "Steam",
-    "genres": ["RPG", "Open world", "Fantasy"],
-    "year": 2025
-  },
-  {
-    "id": "indiana-jones-and-the-great-circle",
-    "name": "Indiana Jones and the Great Circle",
-    "exeName": "TheGreatCircle.exe",
-    "creators": "MachineGames",
-    "steamAppId": 2677660,
-    "store": "Steam",
-    "genres": ["Action", "Adventure"],
-    "year": 2024
-  },
-  {
-    "id": "split-fiction",
-    "name": "Split Fiction",
-    "exeName": "SplitFiction.exe",
-    "creators": "Hazelight Studios",
-    "steamAppId": 2001120,
-    "store": "Steam",
-    "genres": ["Co-op", "Adventure", "Action"],
-    "year": 2025
-  },
-  {
-    "id": "dragon-age-the-veilguard",
-    "name": "Dragon Age: The Veilguard",
-    "exeName": "DragonAgeVeilguard.exe",
-    "creators": "BioWare",
-    "steamAppId": 1845910,
-    "store": "Steam",
-    "genres": ["RPG", "Fantasy", "Action"],
-    "year": 2024
-  },
-  {
-    "id": "kingdom-come-deliverance-ii",
-    "name": "Kingdom Come: Deliverance II",
-    "exeName": "KingdomCome.exe",
-    "creators": "Warhorse Studios",
-    "steamAppId": 1771300,
-    "store": "Steam",
-    "genres": ["RPG", "Open world"],
-    "year": 2025
-  },
-  {
-    "id": "clair-obscur-expedition-33",
-    "name": "Clair Obscur: Expedition 33",
-    "exeName": "Expedition33_Steam.exe",
-    "creators": "Sandfall Interactive",
-    "steamAppId": 1903340,
-    "store": "Steam",
-    "genres": ["RPG", "Turn-based", "Fantasy"],
-    "year": 2025
-  },
-  {
-    "id": "hi-fi-rush",
-    "name": "Hi-Fi RUSH",
-    "exeName": "Hi-Fi-RUSH.exe",
-    "creators": "Tango Gameworks",
-    "steamAppId": 1817230,
-    "store": "Steam",
-    "genres": ["Action", "Hack-and-slash"],
-    "year": 2023
-  },
-  {
-    "id": "lords-of-the-fallen",
-    "name": "Lords of the Fallen",
-    "exeName": "LOTF2.exe",
-    "creators": "Hexworks / CI Games",
-    "steamAppId": 1501750,
-    "store": "Steam",
-    "genres": ["Souls-like", "Action", "RPG"],
-    "year": 2023
-  },
-  {
-    "id": "ghostwire-tokyo",
-    "name": "Ghostwire: Tokyo",
-    "exeName": "Ghostwire-Win64-Shipping.exe",
-    "creators": "Tango Gameworks",
-    "steamAppId": 1475810,
-    "store": "Steam",
-    "genres": ["Action", "Adventure", "Horror"],
-    "year": 2022
-  },
-  {
-    "id": "silent-hill-2",
-    "name": "Silent Hill 2",
-    "exeName": "SHProto.exe",
-    "creators": "Bloober Team / Konami",
-    "steamAppId": 2124490,
-    "store": "Steam",
-    "genres": ["Horror", "Adventure"],
-    "year": 2024
-  },
-  {
-    "id": "quantum-break",
-    "name": "Quantum Break",
-    "exeName": "QuantumBreak.exe",
-    "creators": "Remedy Entertainment",
-    "steamAppId": 474960,
-    "store": "Steam",
-    "genres": ["Action", "Sci-fi", "Adventure"],
-    "year": 2016
-  },
-  {
-    "id": "a-plague-tale-innocence",
-    "name": "A Plague Tale: Innocence",
-    "exeName": "APlagueTaleInnocence_x64.exe",
-    "creators": "Asobo Studio",
-    "steamAppId": 752590,
-    "store": "Steam",
-    "genres": ["Adventure", "Stealth"],
-    "year": 2019
-  },
-  {
-    "id": "a-plague-tale-requiem",
-    "name": "A Plague Tale: Requiem",
-    "exeName": "APlagueTaleRequiem_x64.exe",
-    "creators": "Asobo Studio",
-    "steamAppId": 1182900,
-    "store": "Steam",
-    "genres": ["Adventure", "Stealth"],
-    "year": 2022
-  },
-  {
-    "id": "marvels-spider-man-2",
-    "name": "Marvel's Spider-Man 2",
-    "exeName": "Spider-Man2.exe",
-    "creators": "Insomniac Games",
-    "steamAppId": 2651280,
-    "store": "Steam",
-    "genres": ["Open world", "Action"],
-    "year": 2025
-  },
-  {
-    "id": "assassins-creed-shadows",
-    "name": "Assassin's Creed Shadows",
-    "exeName": "ACShadows.exe",
-    "creators": "Ubisoft Quebec",
-    "steamAppId": 3159330,
-    "store": "Steam",
-    "genres": ["Open world", "Action", "Stealth"],
-    "year": 2025
-  },
-  {
-    "id": "microsoft-flight-simulator-2024",
-    "name": "Microsoft Flight Simulator 2024",
-    "exeName": "FlightSimulator2024.exe",
-    "creators": "Asobo Studio",
-    "steamAppId": 2537590,
-    "store": "Steam",
-    "genres": ["Simulation"],
-    "year": 2024
-  },
-  {
-    "id": "tekken-8",
-    "name": "Tekken 8",
-    "exeName": "TEKKEN 8.exe",
-    "creators": "Bandai Namco",
-    "steamAppId": 1778820,
-    "store": "Steam",
-    "genres": ["Competitive", "Action"],
-    "year": 2024
-  },
-  {
-    "id": "tekken-7",
-    "name": "TEKKEN 7",
-    "exeName": "TEKKEN 7.exe",
-    "creators": "Bandai Namco",
-    "steamAppId": 389730,
-    "store": "Steam",
-    "genres": ["Competitive", "Action"],
-    "year": 2017
-  },
-  {
-    "id": "dragon-ball-fighterz",
-    "name": "DRAGON BALL FighterZ",
-    "exeName": "DBFighterZ.exe",
-    "creators": "Arc System Works",
-    "steamAppId": 678950,
-    "store": "Steam",
-    "genres": ["Competitive", "Action"],
-    "year": 2018
-  },
-  {
-    "id": "dragon-ball-sparking-zero",
-    "name": "DRAGON BALL: Sparking! ZERO",
-    "exeName": "SparkingZERO.exe",
-    "creators": "Spike Chunsoft",
-    "steamAppId": 1790600,
-    "store": "Steam",
-    "genres": ["Competitive", "Action"],
-    "year": 2024
-  },
-  {
-    "id": "final-fantasy-xvi",
-    "name": "Final Fantasy XVI",
-    "exeName": "ffxvi.exe",
-    "creators": "Square Enix",
-    "steamAppId": 2515020,
-    "store": "Steam",
-    "genres": ["RPG", "Action", "Fantasy"],
-    "year": 2024
-  },
-  {
-    "id": "final-fantasy-x-x-2-hd-remaster",
-    "name": "Final Fantasy X/X-2 HD Remaster",
-    "exeName": "FFX&X-2_LAUNCHER.exe",
-    "creators": "Square Enix",
-    "steamAppId": 359870,
-    "store": "Steam",
-    "genres": ["RPG", "Turn-based", "Fantasy"],
-    "year": 2016
-  },
-  {
-    "id": "final-fantasy-xiii",
-    "name": "Final Fantasy XIII",
-    "exeName": "FFXiiiLauncher.exe",
-    "creators": "Square Enix",
-    "steamAppId": 292120,
-    "store": "Steam",
-    "genres": ["RPG", "Fantasy"],
-    "year": 2014
-  },
-  {
-    "id": "final-fantasy-xiii-2",
-    "name": "Final Fantasy XIII-2",
-    "exeName": "FFXiii2Launcher.exe",
-    "creators": "Square Enix",
-    "steamAppId": 292140,
-    "store": "Steam",
-    "genres": ["RPG", "Fantasy"],
-    "year": 2014
-  },
-  {
-    "id": "lightning-returns-final-fantasy-xiii",
-    "name": "Lightning Returns: Final Fantasy XIII",
-    "exeName": "LRFF13.exe",
-    "creators": "Square Enix",
-    "steamAppId": 345350,
-    "store": "Steam",
-    "genres": ["RPG", "Fantasy"],
-    "year": 2015
-  },
-  {
-    "id": "final-fantasy-xii-the-zodiac-age",
-    "name": "Final Fantasy XII: The Zodiac Age",
-    "exeName": "FFXII_TZA.exe",
-    "creators": "Square Enix",
-    "steamAppId": 595520,
-    "store": "Steam",
-    "genres": ["RPG", "Fantasy"],
-    "year": 2018
-  },
-  {
-    "id": "final-fantasy-ix",
-    "name": "Final Fantasy IX",
-    "exeName": "FF9_Launcher.exe",
-    "creators": "Square Enix",
-    "steamAppId": 377840,
-    "store": "Steam",
-    "genres": ["RPG", "Turn-based", "Fantasy"],
-    "year": 2016
-  },
-  {
-    "id": "persona-5-strikers",
-    "name": "Persona 5 Strikers",
-    "exeName": "P5S.exe",
-    "creators": "Omega Force / Atlus",
-    "steamAppId": 1382330,
-    "store": "Steam",
-    "genres": ["RPG", "Action"],
-    "year": 2021
-  },
-  {
-    "id": "vanquish",
-    "name": "Vanquish",
-    "exeName": "Vanquish.exe",
-    "creators": "PlatinumGames",
-    "steamAppId": 460810,
-    "store": "Steam",
-    "genres": ["Shooter", "Action", "Sci-fi"],
-    "year": 2017
-  },
-  {
-    "id": "sonic-frontiers",
-    "name": "Sonic Frontiers",
-    "exeName": "SonicFrontiers.exe",
-    "creators": "Sonic Team",
-    "steamAppId": 1237320,
-    "store": "Steam",
-    "genres": ["Platformer", "Open world", "Action"],
-    "year": 2022
-  },
-  {
-    "id": "resident-evil-5",
-    "name": "Resident Evil 5",
-    "exeName": "Launcher.exe",
-    "creators": "Capcom",
-    "steamAppId": 21690,
-    "store": "Steam",
-    "genres": ["Horror", "Shooter", "Co-op"],
-    "year": 2009
-  },
-  {
-    "id": "resident-evil-revelations",
-    "name": "Resident Evil Revelations",
-    "exeName": "rerev.exe",
-    "creators": "Capcom",
-    "steamAppId": 222480,
-    "store": "Steam",
-    "genres": ["Horror", "Action"],
-    "year": 2013
-  },
-  {
-    "id": "resident-evil-4-2005",
-    "name": "Resident Evil 4 (2005)",
-    "exeName": "bio4.exe",
-    "creators": "Capcom",
-    "steamAppId": 254700,
-    "store": "Steam",
-    "genres": ["Horror", "Action"],
-    "year": 2007
-  },
-  {
-    "id": "borderlands-4",
-    "name": "Borderlands 4",
-    "exeName": "Borderlands4.exe",
-    "creators": "Gearbox Software",
-    "store": "Steam",
-    "genres": ["Shooter", "Co-op", "RPG"],
-    "year": 2025
-  },
-  {
-    "id": "guild-wars-2",
-    "name": "Guild Wars 2",
-    "exeName": "Gw2-64.exe",
-    "creators": "ArenaNet",
-    "steamAppId": 1284210,
-    "store": "Steam",
-    "genres": ["RPG", "Fantasy", "Multiplayer"],
-    "year": 2012
-  },
-  {
-    "id": "eve-online",
-    "name": "EVE Online",
-    "exeName": "evelauncher.exe",
-    "creators": "CCP Games",
-    "steamAppId": 8500,
-    "store": "Steam",
-    "genres": ["Sci-fi", "Multiplayer", "Strategy"],
-    "year": 2003
-  },
-  {
-    "id": "star-wars-the-old-republic",
-    "name": "Star Wars: The Old Republic",
-    "exeName": "launcher.exe",
-    "creators": "BioWare",
-    "steamAppId": 1286830,
-    "store": "Steam",
-    "genres": ["RPG", "Sci-fi", "Multiplayer"],
-    "year": 2011
-  },
-  {
-    "id": "the-lord-of-the-rings-online",
-    "name": "The Lord of the Rings Online",
-    "exeName": "lotrolauncher.exe",
-    "creators": "Standing Stone Games",
-    "steamAppId": 212500,
-    "store": "Steam",
-    "genres": ["RPG", "Fantasy", "Multiplayer"],
-    "year": 2007
-  },
-  {
-    "id": "dungeons-dragons-online",
-    "name": "Dungeons & Dragons Online",
-    "exeName": "DNDLauncher.exe",
-    "creators": "Standing Stone Games",
-    "steamAppId": 206480,
-    "store": "Steam",
-    "genres": ["RPG", "Fantasy", "Multiplayer"],
-    "year": 2006
-  },
-  {
-    "id": "world-of-warcraft-classic",
-    "name": "World of Warcraft Classic",
-    "exeName": "WowClassic.exe",
-    "creators": "Blizzard Entertainment",
-    "store": "Battle.net",
-    "genres": ["RPG", "Fantasy", "Multiplayer"],
-    "year": 2019
-  },
-  {
-    "id": "naraka-bladepoint",
-    "name": "Naraka: Bladepoint",
-    "exeName": "NarakaBladepoint.exe",
-    "creators": "24 Entertainment",
-    "steamAppId": 1203220,
-    "store": "Steam",
-    "genres": ["Battle royale", "Action", "Multiplayer"],
-    "year": 2021
-  },
-  {
-    "id": "eternal-return",
-    "name": "Eternal Return",
-    "exeName": "EternalReturn.exe",
-    "creators": "Nimble Neuron",
-    "steamAppId": 1049590,
-    "store": "Steam",
-    "genres": ["MOBA", "Battle royale", "Multiplayer"],
-    "year": 2023
-  },
-  {
-    "id": "paladins",
-    "name": "Paladins",
-    "exeName": "Paladins.exe",
-    "creators": "Evil Mojo Games",
-    "steamAppId": 444090,
-    "store": "Steam",
-    "genres": ["Shooter", "Competitive", "Multiplayer"],
-    "year": 2018
-  },
-  {
-    "id": "splitgate",
-    "name": "SPLITGATE",
-    "exeName": "PortalWars.exe",
-    "creators": "1047 Games",
-    "steamAppId": 677620,
-    "store": "Steam",
-    "genres": ["Shooter", "Competitive", "Multiplayer"],
-    "year": 2019
-  },
-  {
-    "id": "battlebit-remastered",
-    "name": "BattleBit Remastered",
-    "exeName": "BattleBit.exe",
-    "creators": "SgtOkiDoki",
-    "steamAppId": 671860,
-    "store": "Steam",
-    "genres": ["Shooter", "Multiplayer"],
-    "year": 2023
-  },
-  {
-    "id": "scp-secret-laboratory",
-    "name": "SCP: Secret Laboratory",
-    "exeName": "SCPSL.exe",
-    "creators": "Northwood Studios",
-    "steamAppId": 700330,
-    "store": "Steam",
-    "genres": ["Horror", "Shooter", "Multiplayer"],
-    "year": 2017
-  },
-  {
-    "id": "goose-goose-duck",
-    "name": "Goose Goose Duck",
-    "exeName": "GGDLauncher.exe",
-    "creators": "Gaggle Studios",
-    "steamAppId": 1568590,
-    "store": "Steam",
-    "genres": ["Social deduction", "Party", "Multiplayer"],
-    "year": 2021
-  },
-  {
-    "id": "foxhole",
-    "name": "Foxhole",
-    "exeName": "War.exe",
-    "creators": "Siege Camp",
-    "steamAppId": 505460,
-    "store": "Steam",
-    "genres": ["Strategy", "Multiplayer", "Survival"],
-    "year": 2023
-  },
-  {
-    "id": "mordhau",
-    "name": "Mordhau",
-    "exeName": "Mordhau.exe",
-    "creators": "Triternion",
-    "steamAppId": 629760,
-    "store": "Steam",
-    "genres": ["Action", "Multiplayer"],
-    "year": 2019
-  },
-  {
-    "id": "yu-gi-oh-master-duel",
-    "name": "Yu-Gi-Oh! Master Duel",
-    "exeName": "masterduel.exe",
-    "creators": "Konami",
-    "steamAppId": 1449850,
-    "store": "Steam",
-    "genres": ["Card game", "Competitive"],
-    "year": 2022
-  },
-  {
-    "id": "marvel-snap",
-    "name": "Marvel Snap",
-    "exeName": "SNAP.exe",
-    "creators": "Second Dinner",
-    "steamAppId": 1997040,
-    "store": "Steam",
-    "genres": ["Card game", "Competitive"],
-    "year": 2022
-  },
-  {
-    "id": "magic-the-gathering-arena",
-    "name": "Magic: The Gathering Arena",
-    "exeName": "MTGA.exe",
-    "creators": "Wizards of the Coast",
-    "steamAppId": 2141910,
-    "store": "Steam",
-    "genres": ["Card game", "Competitive"],
-    "year": 2019
-  },
-  {
-    "id": "rocksmith-2014-edition",
-    "name": "Rocksmith 2014 Edition",
-    "exeName": "Rocksmith2014.exe",
-    "creators": "Ubisoft",
-    "steamAppId": 221680,
-    "store": "Steam",
-    "genres": ["Arcade"],
-    "year": 2014
-  },
-  {
-    "id": "warhammer-40-000-rogue-trader",
-    "name": "Warhammer 40,000: Rogue Trader",
-    "exeName": "WH40KRT.exe",
-    "creators": "Owlcat Games",
-    "steamAppId": 2186680,
-    "store": "Steam",
-    "genres": ["RPG", "Turn-based", "Sci-fi"],
-    "year": 2023
-  },
-  {
-    "id": "warhammer-40-000-mechanicus",
-    "name": "Warhammer 40,000: Mechanicus",
-    "exeName": "Mechanicus.exe",
-    "creators": "Bulwark Studios",
-    "steamAppId": 673880,
-    "store": "Steam",
-    "genres": ["Strategy", "Turn-based", "Sci-fi"],
-    "year": 2018
-  },
-  {
-    "id": "warhammer-40-000-space-marine",
-    "name": "Warhammer 40,000: Space Marine",
-    "exeName": "Spacemarine.exe",
-    "creators": "Relic Entertainment",
-    "steamAppId": 55150,
-    "store": "Steam",
-    "genres": ["Action", "Shooter", "Sci-fi"],
-    "year": 2011
-  },
-  {
-    "id": "total-war-pharaoh",
-    "name": "Total War: Pharaoh",
-    "exeName": "launcher.exe",
-    "creators": "Creative Assembly",
-    "steamAppId": 1937780,
-    "store": "Steam",
-    "genres": ["Strategy", "Turn-based"],
-    "year": 2023
-  },
-  {
-    "id": "humankind",
-    "name": "Humankind",
-    "exeName": "Humankind.exe",
-    "creators": "Amplitude Studios",
-    "steamAppId": 1124300,
-    "store": "Steam",
-    "genres": ["Strategy", "Turn-based"],
-    "year": 2021
-  },
-  {
-    "id": "old-world",
-    "name": "Old World",
-    "exeName": "OldWorld.exe",
-    "creators": "Mohawk Games",
-    "steamAppId": 597220,
-    "store": "Steam",
-    "genres": ["Strategy", "Turn-based"],
-    "year": 2021
-  },
-  {
-    "id": "terra-invicta",
-    "name": "Terra Invicta",
-    "exeName": "TerraInvicta.exe",
-    "creators": "Pavonis Interactive",
-    "steamAppId": 1176470,
-    "store": "Steam",
-    "genres": ["Strategy", "Sci-fi"],
-    "year": 2022
-  },
-  {
-    "id": "manor-lords",
-    "name": "Manor Lords",
-    "exeName": "ManorLords.exe",
-    "creators": "Slavic Magic",
-    "steamAppId": 1363080,
-    "store": "Steam",
-    "genres": ["Strategy", "Management"],
-    "year": 2024
-  },
-  {
-    "id": "frostpunk-2",
-    "name": "Frostpunk 2",
-    "exeName": "Frostpunk2.exe",
-    "creators": "11 bit studios",
-    "steamAppId": 1601580,
-    "store": "Steam",
-    "genres": ["Strategy", "Management", "Survival"],
-    "year": 2024
-  },
-  {
-    "id": "jurassic-world-evolution-2",
-    "name": "Jurassic World Evolution 2",
-    "exeName": "JurassicWorldEvolution2.exe",
-    "creators": "Frontier Developments",
-    "steamAppId": 1244460,
-    "store": "Steam",
-    "genres": ["Management", "Simulation"],
-    "year": 2021
-  },
-  {
-    "id": "jurassic-world-evolution",
-    "name": "Jurassic World Evolution",
-    "exeName": "JurassicWorldEvolution.exe",
-    "creators": "Frontier Developments",
-    "steamAppId": 648350,
-    "store": "Steam",
-    "genres": ["Management", "Simulation"],
-    "year": 2018
-  },
-  {
-    "id": "parkitect",
-    "name": "Parkitect",
-    "exeName": "Parkitect.exe",
-    "creators": "Texel Raptor",
-    "steamAppId": 453090,
-    "store": "Steam",
-    "genres": ["Management", "Simulation"],
-    "year": 2018
-  },
-  {
-    "id": "openttd",
-    "name": "OpenTTD",
-    "exeName": "openttd.exe",
-    "creators": "OpenTTD Team",
-    "steamAppId": 1536610,
-    "store": "Steam",
-    "genres": ["Management", "Simulation"],
-    "year": 2021
-  },
-  {
-    "id": "surviving-mars",
-    "name": "Surviving Mars",
-    "exeName": "MarsSteam.exe",
-    "creators": "Haemimont Games",
-    "steamAppId": 464920,
-    "store": "Steam",
-    "genres": ["Strategy", "Management", "Sci-fi"],
-    "year": 2018
-  },
-  {
-    "id": "supreme-commander",
-    "name": "Supreme Commander",
-    "exeName": "SupremeCommander.exe",
-    "creators": "Gas Powered Games",
-    "steamAppId": 9420,
-    "store": "Steam",
-    "genres": ["Strategy", "Sci-fi"],
-    "year": 2007
-  },
-  {
-    "id": "men-of-war-assault-squad-2",
-    "name": "Men of War: Assault Squad 2",
-    "exeName": "mow_assault_squad_2.exe",
-    "creators": "Digitalmindsoft",
-    "steamAppId": 244450,
-    "store": "Steam",
-    "genres": ["Strategy", "Tactical"],
-    "year": 2014
-  },
-  {
-    "id": "worms-armageddon",
-    "name": "Worms Armageddon",
-    "exeName": "WA.exe",
-    "creators": "Team17",
-    "steamAppId": 217200,
-    "store": "Steam",
-    "genres": ["Strategy", "Turn-based", "Party"],
-    "year": 1999
-  },
-  {
-    "id": "game-dev-tycoon",
-    "name": "Game Dev Tycoon",
-    "exeName": "nw.exe",
-    "creators": "Greenheart Games",
-    "steamAppId": 239820,
-    "store": "Steam",
-    "genres": ["Management", "Simulation", "Indie"],
-    "year": 2012
-  },
-  {
-    "id": "kerbal-space-program-2",
-    "name": "Kerbal Space Program 2",
-    "exeName": "KSP2_x64.exe",
-    "creators": "Intercept Games",
-    "steamAppId": 954850,
-    "store": "Steam",
-    "genres": ["Simulation", "Sci-fi"],
-    "year": 2023
-  },
-  {
-    "id": "avorion",
-    "name": "Avorion",
-    "exeName": "Avorion.exe",
-    "creators": "Boxelware",
-    "steamAppId": 445220,
-    "store": "Steam",
-    "genres": ["Sandbox", "Sci-fi", "Survival"],
-    "year": 2020
-  },
-  {
-    "id": "stationeers",
-    "name": "Stationeers",
-    "exeName": "rocketstation.exe",
-    "creators": "RocketWerkz",
-    "steamAppId": 544550,
-    "store": "Steam",
-    "genres": ["Survival", "Simulation", "Sci-fi"],
-    "year": 2017
-  },
-  {
-    "id": "icarus",
-    "name": "Icarus",
-    "exeName": "Icarus.exe",
-    "creators": "RocketWerkz",
-    "steamAppId": 1149460,
-    "store": "Steam",
-    "genres": ["Survival", "Co-op"],
-    "year": 2021
-  },
-  {
-    "id": "abiotic-factor",
-    "name": "Abiotic Factor",
-    "exeName": "AbioticFactor.exe",
-    "creators": "Deep Field Games",
-    "steamAppId": 427410,
-    "store": "Steam",
-    "genres": ["Survival", "Co-op", "Sci-fi"],
-    "year": 2024
-  },
-  {
-    "id": "the-planet-crafter",
-    "name": "The Planet Crafter",
-    "exeName": "Planet Crafter.exe",
-    "creators": "Miju Games",
-    "steamAppId": 1284190,
-    "store": "Steam",
-    "genres": ["Survival", "Sandbox", "Sci-fi"],
-    "year": 2024
-  },
-  {
-    "id": "ark-survival-ascended",
-    "name": "ARK: Survival Ascended",
-    "exeName": "ArkAscended.exe",
-    "creators": "Studio Wildcard",
-    "steamAppId": 2399830,
-    "store": "Steam",
-    "genres": ["Survival", "Open world"],
-    "year": 2023
-  },
-  {
-    "id": "hello-neighbor",
-    "name": "Hello Neighbor",
-    "exeName": "HelloNeighbor.exe",
-    "creators": "Dynamic Pixels",
-    "steamAppId": 521890,
-    "store": "Steam",
-    "genres": ["Horror", "Stealth"],
-    "year": 2017
-  },
-  {
-    "id": "devour",
-    "name": "Devour",
-    "exeName": "Devour.exe",
-    "creators": "Straight Back Games",
-    "steamAppId": 1274570,
-    "store": "Steam",
-    "genres": ["Horror", "Co-op"],
-    "year": 2021
-  },
-  {
-    "id": "five-nights-at-freddys",
-    "name": "Five Nights at Freddy's",
-    "exeName": "FiveNightsatFreddys.exe",
-    "creators": "Scott Cawthon",
-    "steamAppId": 319510,
-    "store": "Steam",
-    "genres": ["Horror", "Indie"],
-    "year": 2014
-  },
-  {
-    "id": "five-nights-at-freddys-2",
-    "name": "Five Nights at Freddy's 2",
-    "exeName": "FiveNightsatFreddys2.exe",
-    "creators": "Scott Cawthon",
-    "steamAppId": 332800,
-    "store": "Steam",
-    "genres": ["Horror", "Indie"],
-    "year": 2014
-  },
-  {
-    "id": "five-nights-at-freddys-3",
-    "name": "Five Nights at Freddy's 3",
-    "exeName": "FiveNightsatFreddys3.exe",
-    "creators": "Scott Cawthon",
-    "steamAppId": 354140,
-    "store": "Steam",
-    "genres": ["Horror", "Indie"],
-    "year": 2015
-  },
-  {
-    "id": "five-nights-at-freddys-4",
-    "name": "Five Nights at Freddy's 4",
-    "exeName": "FiveNightsatFreddys4.exe",
-    "creators": "Scott Cawthon",
-    "steamAppId": 388090,
-    "store": "Steam",
-    "genres": ["Horror", "Indie"],
-    "year": 2015
-  },
-  {
-    "id": "darkwood",
-    "name": "Darkwood",
-    "exeName": "Darkwood.exe",
-    "creators": "Acid Wizard Studio",
-    "steamAppId": 274520,
-    "store": "Steam",
-    "genres": ["Horror", "Survival", "Indie"],
-    "year": 2017
-  },
-  {
-    "id": "signalis",
-    "name": "SIGNALIS",
-    "exeName": "SIGNALIS.exe",
-    "creators": "rose-engine",
-    "steamAppId": 1262350,
-    "store": "Steam",
-    "genres": ["Horror", "Sci-fi", "Indie"],
-    "year": 2022
-  },
-  {
-    "id": "iron-lung",
-    "name": "Iron Lung",
-    "exeName": "Iron Lung.exe",
-    "creators": "David Szymanski",
-    "steamAppId": 1846170,
-    "store": "Steam",
-    "genres": ["Horror", "Indie"],
-    "year": 2022
-  },
-  {
-    "id": "buckshot-roulette",
-    "name": "Buckshot Roulette",
-    "exeName": "Buckshot Roulette.exe",
-    "creators": "Mike Klubnika",
-    "steamAppId": 2835570,
-    "store": "Steam",
-    "genres": ["Horror", "Indie"],
-    "year": 2024
-  },
-  {
-    "id": "f-e-a-r",
-    "name": "F.E.A.R.",
-    "exeName": "FEAR.exe",
-    "creators": "Monolith Productions",
-    "steamAppId": 21090,
-    "store": "Steam",
-    "genres": ["Shooter", "Horror"],
-    "year": 2005
-  },
-  {
-    "id": "crysis",
-    "name": "Crysis",
-    "exeName": "Crysis.exe",
-    "creators": "Crytek",
-    "steamAppId": 17300,
-    "store": "Steam",
-    "genres": ["Shooter", "Sci-fi"],
-    "year": 2007
-  },
-  {
-    "id": "thief",
-    "name": "Thief",
-    "exeName": "shipping-thiefgame.exe",
-    "creators": "Eidos Montréal",
-    "steamAppId": 239160,
-    "store": "Steam",
-    "genres": ["Stealth", "Action"],
-    "year": 2014
-  },
-  {
-    "id": "vampire-the-masquerade-bloodlines",
-    "name": "Vampire: The Masquerade - Bloodlines",
-    "exeName": "Vampire.exe",
-    "creators": "Troika Games",
-    "steamAppId": 2600,
-    "store": "Steam",
-    "genres": ["RPG", "Horror"],
-    "year": 2004
-  },
-  {
-    "id": "the-outer-worlds",
-    "name": "The Outer Worlds",
-    "exeName": "TheOuterWorlds.exe",
-    "creators": "Obsidian Entertainment",
-    "steamAppId": 578650,
-    "store": "Steam",
-    "genres": ["RPG", "Sci-fi", "Open world"],
-    "year": 2019
-  },
-  {
-    "id": "divinity-original-sin-enhanced-edition",
-    "name": "Divinity: Original Sin - Enhanced Edition",
-    "exeName": "EoCApp.exe",
-    "creators": "Larian Studios",
-    "steamAppId": 373420,
-    "store": "Steam",
-    "genres": ["RPG", "Turn-based", "Fantasy"],
-    "year": 2015
-  },
-  {
-    "id": "psychonauts",
-    "name": "Psychonauts",
-    "exeName": "Psychonauts.exe",
-    "creators": "Double Fine Productions",
-    "steamAppId": 3830,
-    "store": "Steam",
-    "genres": ["Platformer", "Adventure"],
-    "year": 2005
-  },
-  {
-    "id": "grim-fandango-remastered",
-    "name": "Grim Fandango Remastered",
-    "exeName": "GrimFandango.exe",
-    "creators": "Double Fine Productions",
-    "steamAppId": 316790,
-    "store": "Steam",
-    "genres": ["Adventure"],
-    "year": 2015
-  },
-  {
-    "id": "risk-of-rain",
-    "name": "Risk of Rain",
-    "exeName": "Risk of Rain.exe",
-    "creators": "Hopoo Games",
-    "steamAppId": 248820,
-    "store": "Steam",
-    "genres": ["Roguelike", "Platformer", "Indie"],
-    "year": 2013
-  },
-  {
-    "id": "risk-of-rain-returns",
-    "name": "Risk of Rain Returns",
-    "exeName": "Risk of Rain Returns.exe",
-    "creators": "Hopoo Games / Gearbox",
-    "steamAppId": 1337520,
-    "store": "Steam",
-    "genres": ["Roguelike", "Platformer", "Indie"],
-    "year": 2023
-  },
-  {
-    "id": "rogue-legacy",
-    "name": "Rogue Legacy",
-    "exeName": "RogueLegacy.exe",
-    "creators": "Cellar Door Games",
-    "steamAppId": 241600,
-    "store": "Steam",
-    "genres": ["Roguelike", "Platformer", "Indie"],
-    "year": 2013
-  },
-  {
-    "id": "rogue-legacy-2",
-    "name": "Rogue Legacy 2",
-    "exeName": "Rogue Legacy 2.exe",
-    "creators": "Cellar Door Games",
-    "steamAppId": 1253920,
-    "store": "Steam",
-    "genres": ["Roguelike", "Platformer", "Indie"],
-    "year": 2022
-  },
-  {
-    "id": "cave-story",
-    "name": "Cave Story+",
-    "exeName": "CaveStory+.exe",
-    "creators": "Nicalis",
-    "steamAppId": 200900,
-    "store": "Steam",
-    "genres": ["Platformer", "Metroidvania", "Indie"],
-    "year": 2011
-  },
-  {
-    "id": "vvvvvv",
-    "name": "VVVVVV",
-    "exeName": "VVVVVV.exe",
-    "creators": "Terry Cavanagh",
-    "steamAppId": 70300,
-    "store": "Steam",
-    "genres": ["Platformer", "Indie"],
-    "year": 2010
-  },
-  {
-    "id": "duck-game",
-    "name": "Duck Game",
-    "exeName": "DuckGame.exe",
-    "creators": "Landon Podbielski",
-    "steamAppId": 312530,
-    "store": "Steam",
-    "genres": ["Party", "Multiplayer", "Indie"],
-    "year": 2015
-  },
-  {
-    "id": "speedrunners",
-    "name": "SpeedRunners",
-    "exeName": "SpeedRunners.exe",
-    "creators": "DoubleDutch Games",
-    "steamAppId": 207140,
-    "store": "Steam",
-    "genres": ["Platformer", "Competitive", "Multiplayer"],
-    "year": 2016
-  },
-  {
-    "id": "dinkum",
-    "name": "Dinkum",
-    "exeName": "Dinkum.exe",
-    "creators": "James Bendon",
-    "steamAppId": 1062520,
-    "store": "Steam",
-    "genres": ["Farming", "Open world", "Co-op"],
-    "year": 2023
-  },
-  {
-    "id": "my-time-at-sandrock",
-    "name": "My Time at Sandrock",
-    "exeName": "Sandrock.exe",
-    "creators": "Pathea Games",
-    "steamAppId": 1084600,
-    "store": "Steam",
-    "genres": ["Farming", "RPG", "Simulation"],
-    "year": 2023
-  },
-  {
-    "id": "plateup",
-    "name": "PlateUp!",
-    "exeName": "PlateUp.exe",
-    "creators": "It's Happening",
-    "steamAppId": 1599600,
-    "store": "Steam",
-    "genres": ["Co-op", "Management", "Indie"],
-    "year": 2022
-  },
-  {
-    "id": "world-of-goo",
-    "name": "World of Goo",
-    "exeName": "WorldOfGoo.exe",
-    "creators": "2D BOY",
-    "steamAppId": 22000,
-    "store": "Steam",
-    "genres": ["Puzzle", "Indie"],
-    "year": 2008
-  },
-  {
-    "id": "bloons-td-5",
-    "name": "Bloons TD 5",
-    "exeName": "BTD5-Win.exe",
-    "creators": "Ninja Kiwi",
-    "steamAppId": 306020,
-    "store": "Steam",
-    "genres": ["Strategy"],
-    "year": 2014
-  },
-  {
-    "id": "surgeon-simulator",
-    "name": "Surgeon Simulator",
-    "exeName": "ss2013.exe",
-    "creators": "Bossa Studios",
-    "steamAppId": 233720,
-    "store": "Steam",
-    "genres": ["Simulation", "Party", "Indie"],
-    "year": 2013
-  },
-  {
-    "id": "skater-xl",
-    "name": "Skater XL",
-    "exeName": "SkaterXL.exe",
-    "creators": "Easy Day Studios",
-    "steamAppId": 962730,
-    "store": "Steam",
-    "genres": ["Sports", "Simulation"],
-    "year": 2020
-  },
-  {
-    "id": "descenders",
-    "name": "Descenders",
-    "exeName": "Descenders.exe",
-    "creators": "RageSquid",
-    "steamAppId": 681280,
-    "store": "Steam",
-    "genres": ["Sports", "Racing", "Indie"],
-    "year": 2019
-  },
-  {
-    "id": "the-talos-principle",
-    "name": "The Talos Principle",
-    "exeName": "Talos.exe",
-    "creators": "Croteam",
-    "steamAppId": 257510,
-    "store": "Steam",
-    "genres": ["Puzzle", "Adventure"],
-    "year": 2014
-  },
-  {
-    "id": "baba-is-you",
-    "name": "Baba Is You",
-    "exeName": "Baba Is You.exe",
-    "creators": "Hempuli",
-    "steamAppId": 736260,
-    "store": "Steam",
-    "genres": ["Puzzle", "Indie"],
-    "year": 2019
-  },
-  {
-    "id": "opus-magnum",
-    "name": "Opus Magnum",
-    "exeName": "Lightning.exe",
-    "creators": "Zachtronics",
-    "steamAppId": 558990,
-    "store": "Steam",
-    "genres": ["Puzzle", "Indie"],
-    "year": 2017
-  },
-  {
-    "id": "keep-talking-and-nobody-explodes",
-    "name": "Keep Talking and Nobody Explodes",
-    "exeName": "ktane.exe",
-    "creators": "Steel Crate Games",
-    "steamAppId": 341800,
-    "store": "Steam",
-    "genres": ["Puzzle", "Co-op", "Party"],
-    "year": 2015
-  },
-  {
-    "id": "pentiment",
-    "name": "Pentiment",
-    "exeName": "Pentiment.exe",
-    "creators": "Obsidian Entertainment",
-    "steamAppId": 1205520,
-    "store": "Steam",
-    "genres": ["Adventure", "RPG", "Detective"],
-    "year": 2022
-  },
-  {
-    "id": "griftlands",
-    "name": "Griftlands",
-    "exeName": "Griftlands.exe",
-    "creators": "Klei Entertainment",
-    "steamAppId": 601840,
-    "store": "Steam",
-    "genres": ["Roguelike", "Card game", "RPG"],
-    "year": 2021
-  },
-  {
-    "id": "gunfire-reborn",
-    "name": "Gunfire Reborn",
-    "exeName": "Gunfire Reborn.exe",
-    "creators": "Duoyi Games",
-    "steamAppId": 1217060,
-    "store": "Steam",
-    "genres": ["Roguelike", "Shooter", "Co-op"],
-    "year": 2022
-  },
-  {
-    "id": "neon-white",
-    "name": "Neon White",
-    "exeName": "Neon White.exe",
-    "creators": "Angel Matrix",
-    "steamAppId": 1533420,
-    "store": "Steam",
-    "genres": ["Platformer", "Shooter", "Indie"],
-    "year": 2022
-  },
-  {
-    "id": "ultrakill",
-    "name": "ULTRAKILL",
-    "exeName": "ULTRAKILL.exe",
-    "creators": "Arsi \"Hakita\" Patala",
-    "steamAppId": 1229490,
-    "store": "Steam",
-    "genres": ["Shooter", "Action", "Indie"],
-    "year": 2020
-  },
-  {
-    "id": "pizza-tower",
-    "name": "Pizza Tower",
-    "exeName": "PizzaTower.exe",
-    "creators": "Tour De Pizza",
-    "steamAppId": 2231450,
-    "store": "Steam",
-    "genres": ["Platformer", "Indie"],
-    "year": 2023
-  },
-  {
-    "id": "omori",
-    "name": "OMORI",
-    "exeName": "OMORI.exe",
-    "creators": "OMOCAT",
-    "steamAppId": 1150690,
-    "store": "Steam",
-    "genres": ["RPG", "Horror", "Indie"],
-    "year": 2020
-  },
-  {
-    "id": "cruelty-squad",
-    "name": "Cruelty Squad",
-    "exeName": "Cruelty Squad.exe",
-    "creators": "Consumer Softproducts",
-    "steamAppId": 1388770,
-    "store": "Steam",
-    "genres": ["Shooter", "Indie"],
-    "year": 2021
-  },
-  {
-    "id": "teardown",
-    "name": "Teardown",
-    "exeName": "teardown.exe",
-    "creators": "Tuxedo Labs",
-    "steamAppId": 1167630,
-    "store": "Steam",
-    "genres": ["Sandbox", "Action", "Indie"],
-    "year": 2022
-  },
-  {
-    "id": "stray",
-    "name": "Stray",
-    "exeName": "Stray.exe",
-    "creators": "BlueTwelve Studio",
-    "steamAppId": 1332010,
-    "store": "Steam",
-    "genres": ["Adventure", "Indie"],
-    "year": 2022
-  },
-  {
-    "id": "animal-well",
-    "name": "Animal Well",
-    "exeName": "Animal Well.exe",
-    "creators": "Billy Basso",
-    "steamAppId": 813230,
-    "store": "Steam",
-    "genres": ["Metroidvania", "Puzzle", "Indie"],
-    "year": 2024
-  },
-  {
-    "id": "nine-sols",
-    "name": "Nine Sols",
-    "exeName": "NineSols.exe",
-    "creators": "Red Candle Games",
-    "steamAppId": 1809540,
-    "store": "Steam",
-    "genres": ["Metroidvania", "Action", "Indie"],
-    "year": 2024
-  },
-  {
-    "id": "tiny-glade",
-    "name": "Tiny Glade",
-    "exeName": "tiny-glade.exe",
-    "creators": "Pounce Light",
-    "steamAppId": 2198150,
-    "store": "Steam",
-    "genres": ["Relaxing", "Sandbox", "Indie"],
-    "year": 2024
-  },
-  {
-    "id": "ufo-50",
-    "name": "UFO 50",
-    "exeName": "ufo50.exe",
-    "creators": "Mossmouth",
-    "steamAppId": 1147860,
-    "store": "Steam",
-    "genres": ["Arcade", "Indie"],
-    "year": 2024
-  },
-  {
-    "id": "megabonk",
-    "name": "Megabonk",
-    "exeName": "Megabonk.exe",
-    "creators": "vedinad",
-    "steamAppId": 3405340,
-    "store": "Steam",
-    "genres": ["Roguelike", "Action", "Indie"],
-    "year": 2025
-  },
-  {
-    "id": "supermarket-simulator",
-    "name": "Supermarket Simulator",
-    "exeName": "Supermarket Simulator.exe",
-    "creators": "Nokta Games",
-    "steamAppId": 2670630,
-    "store": "Steam",
-    "genres": ["Simulation", "Management"],
-    "year": 2024
-  },
-  {
-    "id": "mini-metro",
-    "name": "Mini Metro",
-    "exeName": "MiniMetro.exe",
-    "creators": "Dinosaur Polo Club",
-    "steamAppId": 287980,
-    "store": "Steam",
-    "genres": ["Puzzle", "Management", "Indie"],
-    "year": 2015
-  },
-  {
-    "id": "townscaper",
-    "name": "Townscaper",
-    "exeName": "Townscaper.exe",
-    "creators": "Oskar Stålberg",
-    "steamAppId": 1291340,
-    "store": "Steam",
-    "genres": ["Relaxing", "Sandbox", "Indie"],
-    "year": 2021
-  },
-  {
-    "id": "geometry-dash",
-    "name": "Geometry Dash",
-    "exeName": "GeometryDash.exe",
-    "creators": "RobTop Games",
-    "steamAppId": 322170,
-    "store": "Steam",
-    "genres": ["Platformer", "Arcade"],
-    "year": 2014
-  },
-  {
-    "id": "a-dance-of-fire-and-ice",
-    "name": "A Dance of Fire and Ice",
-    "exeName": "A Dance of Fire and Ice.exe",
-    "creators": "7th Beat Games",
-    "steamAppId": 977950,
-    "store": "Steam",
-    "genres": ["Arcade", "Indie"],
-    "year": 2019
-  },
-  {
-    "id": "muse-dash",
-    "name": "Muse Dash",
-    "exeName": "MuseDash.exe",
-    "creators": "PeroPeroGames",
-    "steamAppId": 774171,
-    "store": "Steam",
-    "genres": ["Arcade"],
-    "year": 2018
-  },
-  {
-    "id": "rhythm-doctor",
-    "name": "Rhythm Doctor",
-    "exeName": "Rhythm Doctor.exe",
-    "creators": "7th Beat Games",
-    "steamAppId": 774181,
-    "store": "Steam",
-    "genres": ["Arcade", "Indie"],
-    "year": 2021
-  },
-  {
-    "id": "cultist-simulator",
-    "name": "Cultist Simulator",
-    "exeName": "cultistsimulator.exe",
-    "creators": "Weather Factory",
-    "steamAppId": 718670,
-    "store": "Steam",
-    "genres": ["Card game", "Indie"],
-    "year": 2018
-  },
-  {
-    "id": "thehunter-call-of-the-wild",
-    "name": "theHunter: Call of the Wild",
-    "exeName": "theHunterCotW_F.exe",
-    "creators": "Expansive Worlds",
-    "steamAppId": 518790,
-    "store": "Steam",
-    "genres": ["Simulation", "Open world"],
-    "year": 2017
-  },
-  {
-    "id": "snowrunner",
-    "name": "SnowRunner",
-    "exeName": "SnowRunner.exe",
-    "creators": "Saber Interactive",
-    "steamAppId": 1465360,
-    "store": "Steam",
-    "genres": ["Driving", "Simulation", "Open world"],
-    "year": 2020
-  },
-  {
-    "id": "mudrunner",
-    "name": "MudRunner",
-    "exeName": "MudRunner.exe",
-    "creators": "Saber Interactive",
-    "steamAppId": 675010,
-    "store": "Steam",
-    "genres": ["Driving", "Simulation"],
-    "year": 2017
-  },
-  {
-    "id": "dirt-4",
-    "name": "DiRT 4",
-    "exeName": "dirt4.exe",
-    "creators": "Codemasters",
-    "steamAppId": 421020,
-    "store": "Steam",
-    "genres": ["Racing", "Driving"],
-    "year": 2017
-  },
-  {
-    "id": "f1-25",
-    "name": "F1 25",
-    "exeName": "F1_25.exe",
-    "creators": "Codemasters",
-    "steamAppId": 3059520,
-    "store": "Steam",
-    "genres": ["Racing", "Sports"],
-    "year": 2025
-  },
-  {
-    "id": "assetto-corsa-evo",
-    "name": "Assetto Corsa EVO",
-    "exeName": "AssettoCorsaEVO.exe",
-    "creators": "Kunos Simulazioni",
-    "steamAppId": 3058630,
-    "store": "Steam",
-    "genres": ["Racing", "Simulation"],
-    "year": 2025
-  },
-  {
-    "id": "rfactor-2",
-    "name": "rFactor 2",
-    "exeName": "rFactor2.exe",
-    "creators": "Studio 397",
-    "steamAppId": 365960,
-    "store": "Steam",
-    "genres": ["Racing", "Simulation"],
-    "year": 2013
-  },
-  {
-    "id": "le-mans-ultimate",
-    "name": "Le Mans Ultimate",
-    "exeName": "start_protected_game.exe",
-    "creators": "Studio 397",
-    "steamAppId": 2399420,
-    "store": "Steam",
-    "genres": ["Racing", "Simulation"],
-    "year": 2024
-  },
-  {
-    "id": "efootball",
-    "name": "eFootball",
-    "exeName": "eFootball.exe",
-    "creators": "Konami",
-    "steamAppId": 1665460,
-    "store": "Steam",
-    "genres": ["Sports", "Competitive"],
-    "year": 2021
-  },
-  {
-    "id": "train-simulator-classic",
-    "name": "Train Simulator Classic",
-    "exeName": "RailWorks64.exe",
-    "creators": "Dovetail Games",
-    "steamAppId": 24010,
-    "store": "Steam",
-    "genres": ["Simulation"],
-    "year": 2009
-  },
-  {
-    "id": "boneworks",
-    "name": "BONEWORKS",
-    "exeName": "BONEWORKS.exe",
-    "creators": "Stress Level Zero",
-    "steamAppId": 823500,
-    "store": "Steam",
-    "genres": ["VR", "Action", "Sci-fi"],
-    "year": 2019
-  },
-  {
-    "id": "bonelab",
-    "name": "BONELAB",
-    "exeName": "BONELAB_Steam_Windows64.exe",
-    "creators": "Stress Level Zero",
-    "steamAppId": 1592190,
-    "store": "Steam",
-    "genres": ["VR", "Action", "Sci-fi"],
-    "year": 2022
-  },
-  {
-    "id": "hot-dogs-horseshoes-hand-grenades",
-    "name": "Hot Dogs, Horseshoes & Hand Grenades",
-    "exeName": "h3vr.exe",
-    "creators": "RUST LTD.",
-    "steamAppId": 450540,
-    "store": "Steam",
-    "genres": ["VR", "Shooter", "Sandbox"],
-    "year": 2016
-  },
-  {
-    "id": "temtem",
-    "name": "Temtem",
-    "exeName": "Temtem.exe",
-    "creators": "Crema",
-    "steamAppId": 745920,
-    "store": "Steam",
-    "genres": ["RPG", "Multiplayer"],
-    "year": 2020
-  },
-  {
-    "id": "trackmania",
-    "name": "Trackmania",
-    "exeName": "Trackmania.exe",
-    "creators": "Nadeo / Ubisoft",
-    "store": "Ubisoft",
-    "genres": ["Racing", "Driving", "Competitive"],
-    "year": 2020
-  },
-  {
-    "id": "assassins-creed-mirage",
-    "name": "Assassin's Creed Mirage",
-    "exeName": "ACMirage.exe",
-    "creators": "Ubisoft Bordeaux",
-    "store": "Ubisoft",
-    "genres": ["Open world", "Stealth", "Action"],
-    "year": 2023
-  },
-  {
-    "id": "overcooked",
-    "name": "Overcooked!",
-    "exeName": "Overcooked.exe",
-    "creators": "Ghost Town Games",
-    "steamAppId": 448510,
-    "store": "Steam",
-    "genres": ["Co-op", "Party", "Indie"],
-    "year": 2016
-  },
-  {
-    "id": "overcooked-all-you-can-eat",
-    "name": "Overcooked! All You Can Eat",
-    "exeName": "Overcooked All You Can Eat.exe",
-    "creators": "Ghost Town Games",
-    "steamAppId": 1243830,
-    "store": "Steam",
-    "genres": ["Co-op", "Party", "Indie"],
-    "year": 2020
-  },
-  {
-    "id": "mindustry",
-    "name": "Mindustry",
-    "exeName": "Mindustry.exe",
-    "creators": "Anuke",
-    "steamAppId": 1127400,
-    "store": "Steam",
-    "genres": ["Strategy", "Sandbox", "Indie"],
-    "year": 2019
-  },
-  {
-    "id": "towerfall-ascension",
-    "name": "TowerFall Ascension",
-    "exeName": "TowerFall.exe",
-    "creators": "Matt Makes Games",
-    "steamAppId": 251470,
-    "store": "Steam",
-    "genres": ["Party", "Multiplayer", "Indie"],
-    "year": 2014
-  },
-  {
-    "id": "worms-w-m-d",
-    "name": "Worms W.M.D",
-    "exeName": "Worms W.M.D.exe",
-    "creators": "Team17",
-    "steamAppId": 327030,
-    "store": "Steam",
-    "genres": ["Strategy", "Turn-based", "Party"],
-    "year": 2016
-  },
-  {
-    "id": "thumper",
-    "name": "Thumper",
-    "exeName": "THUMPER_win8.exe",
-    "creators": "Drool",
-    "steamAppId": 356400,
-    "store": "Steam",
-    "genres": ["Arcade", "Indie"],
-    "year": 2016
-  },
-  {
-    "id": "audiosurf-2",
-    "name": "Audiosurf 2",
-    "exeName": "Audiosurf2.exe",
-    "creators": "Dylan Fitterer",
-    "steamAppId": 235800,
-    "store": "Steam",
-    "genres": ["Arcade", "Indie"],
-    "year": 2015
-  },
-  {
-    "id": "sonic-x-shadow-generations",
-    "name": "Sonic x Shadow Generations",
-    "exeName": "SonicXShadowGenerations.exe",
-    "creators": "Sonic Team",
-    "steamAppId": 2513280,
-    "store": "Steam",
-    "genres": ["Platformer", "Action"],
-    "year": 2024
-  },
-  {
-    "id": "cosmoteer-starship-architect-commander",
-    "name": "Cosmoteer: Starship Architect & Commander",
-    "exeName": "Cosmoteer.exe",
-    "creators": "Walternate Realities",
-    "steamAppId": 799600,
-    "store": "Steam",
-    "genres": ["Simulation", "Strategy", "Sci-fi"],
-    "year": 2022
-  },
-  {
-    "id": "brothers-a-tale-of-two-sons",
-    "name": "Brothers: A Tale of Two Sons",
-    "exeName": "Brothers.exe",
-    "creators": "Starbreeze Studios",
-    "steamAppId": 225080,
-    "store": "Steam",
-    "genres": ["Adventure", "Co-op"],
-    "year": 2013
-  },
-  {
-    "id": "wingspan",
-    "name": "Wingspan",
-    "exeName": "Wingspan.exe",
-    "creators": "Monster Couch",
-    "steamAppId": 1054490,
-    "store": "Steam",
-    "genres": ["Card game", "Strategy", "Relaxing"],
-    "year": 2020
-  },
-{
-    "id": "gta-3-def",
-    "name": "Grand Theft Auto III – The Definitive Edition",
-    "exeName": "PlayGTA3.exe",
-    "creators": "Rockstar Games / Grove Street Games",
-    "pegi": "PEGI 18",
-    "summary": "The groundbreaking classic that started the 3D open-world genre, fully remastered with modern controls, upgraded visuals, and environmental enhancements.",
-    "steamAppId": 1546970,
-    "store": "Steam",
-    "genres": ["Open world", "Action"],
-    "year": 2021
-  },
-  {
-    "id": "gta-vc-def",
-    "name": "Grand Theft Auto: Vice City – The Definitive Edition",
-    "exeName": "PlayGTAViceCity.exe",
-    "creators": "Rockstar Games / Grove Street Games",
-    "pegi": "PEGI 18",
-    "summary": "Welcome to the 1980s. Experience Tommy Vercetti's tale of betrayal and revenge in a neon-soaked tropical city, updated with modern gameplay and graphical fidelity.",
-    "steamAppId": 1546990,
-    "store": "Steam",
-    "genres": ["Open world", "Action"],
-    "year": 2021
-  },
-  {
-    "id": "gta-sa-def",
-    "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
-    "exeName": "PlayGTASanAndreas.exe",
-    "creators": "Rockstar Games / Grove Street Games",
-    "pegi": "PEGI 18",
-    "summary": "Carl Johnson's legendary journey across the state of San Andreas to save his family and take back the streets, remastered with enhanced lighting and updated controls.",
-    "steamAppId": 1547000,
-    "store": "Steam",
-    "genres": ["Open world", "Action"],
-    "year": 2021
-  },
-  {
-    "id": "fallout-1",
-    "name": "Fallout: A Post Nuclear Role Playing Game",
-    "exeName": "falloutlauncher.exe",
-    "creators": "Interplay Productions",
-    "pegi": "PEGI 16",
-    "summary": "You are the Vault Dweller, an exile exploring the devastated nuclear wastes of Southern California in 2161.",
-    "steamAppId": 38400,
-    "store": "Steam",
-    "genres": ["RPG", "Post-apocalyptic"],
-    "year": 1997
-  },
-  {
-    "id": "fallout-2",
-    "name": "Fallout 2: A Post Nuclear Role Playing Game",
-    "exeName": "fallout2launcher.exe",
-    "creators": "Black Isle Studios",
-    "pegi": "PEGI 16",
-    "summary": "Eighty years after your ancestor trod the wastes, you search for the Garden of Eden Creation Kit to save your primitive village.",
-    "steamAppId": 38410,
-    "store": "Steam",
-    "genres": ["RPG", "Post-apocalyptic"],
-    "year": 1998
-  },
-  {
-    "id": "dead-space-3",
-    "name": "Dead Space 3",
-    "exeName": "deadspace3.exe",
-    "creators": "Visceral Games",
-    "pegi": "PEGI 18",
-    "summary": "Journey to the ice planet Tau Volantis alone or with a friend in search of the source of the Marker outbreak.",
-    "steamAppId": 1238060,
-    "store": "Steam",
-    "genres": ["Horror", "Sci-fi", "Co-op"],
-    "year": 2013
-  },
-  {
-    "id": "system-shock-remake",
-    "name": "System Shock",
-    "exeName": "SystemShock.exe",
-    "creators": "Nightdive Studios",
-    "pegi": "PEGI 18",
-    "summary": "A full-fledged remake of the groundbreaking 1994 sci-fi immersive sim, featuring upgraded visuals, overhauled audio, and modernized controls.",
-    "steamAppId": 482400,
-    "store": "Steam",
-    "genres": ["Shooter", "Sci-fi", "Horror"],
-    "year": 2023
-  },
-  {
-    "id": "alan-wakes-american-nightmare",
-    "name": "Alan Wake's American Nightmare",
-    "exeName": "alan_wakes_american_nightmare.exe",
-    "creators": "Remedy Entertainment",
-    "pegi": "PEGI 16",
-    "summary": "Fight the darkness in this standalone arcade-action thriller set in Arizona as Alan Wake battles his evil double, Mr. Scratch.",
-    "steamAppId": 202750,
-    "store": "Steam",
-    "genres": ["Action", "Horror"],
-    "year": 2012
-  },
-  {
-    "id": "command-and-conquer-remastered",
-    "name": "Command & Conquer Remastered Collection",
-    "exeName": "Client.exe",
-    "creators": "Petroglyph Games / Westwood Studios",
-    "pegi": "PEGI 16",
-    "summary": "Both Command & Conquer and Red Alert fully remastered in 4K by former Westwood Studios team members with all expansions included.",
-    "steamAppId": 1213210,
-    "store": "Steam",
-    "genres": ["Strategy", "RTS"],
-    "year": 2020
-  },
-  {
-    "id": "cocoon",
-    "name": "COCOON",
-    "exeName": "Cocoon.exe",
-    "creators": "Geometric Interactive",
-    "pegi": "PEGI 7",
-    "summary": "From the lead gameplay designer of Limbo and Inside, take a journey across worlds-within-worlds to master world-hopping mechanics and solve intricate puzzles.",
-    "steamAppId": 1974110,
-    "store": "Steam",
-    "genres": ["Puzzle", "Indie", "Adventure"],
-    "year": 2023
-  },
-  {
-    "id": "chants-of-sennaar",
-    "name": "Chants of Sennaar",
-    "exeName": "Chants of Sennaar.exe",
-    "creators": "Rundisc",
-    "pegi": "PEGI 7",
-    "summary": "Drawn to the myth of the Tower of Babel, explore a sprawling labyrinth, decipher ancient glyph languages, and restore the bonds of divided peoples.",
-    "steamAppId": 1931270,
-    "store": "Steam",
-    "genres": ["Puzzle", "Indie", "Adventure"],
-    "year": 2023
-  },
-  {
-    "id": "pacific-drive",
-    "name": "Pacific Drive",
-    "exeName": "PenDriverPro.exe",
-    "creators": "Ironwood Studios",
-    "pegi": "PEGI 16",
-    "summary": "A first-person driving survival game set in the anomalous Pacific Northwest. Face supernatural perils of the Olympic Exclusion Zone with your station wagon as your lifeline.",
-    "steamAppId": 1458140,
-    "store": "Steam",
-    "genres": ["Survival", "Indie", "Action"],
-    "year": 2024
-  },
-  {
-    "id": "crow-country",
-    "name": "Crow Country",
-    "exeName": "Crow Country.exe",
-    "creators": "SFB Games",
-    "pegi": "PEGI 18",
-    "summary": "1990. Edward Crow has mysteriously vanished, and his abandoned theme park is overrun with sinister creatures. A classic 90s-style survival horror game.",
-    "steamAppId": 1996010,
-    "store": "Steam",
-    "genres": ["Horror", "Indie"],
-    "year": 2024
-  },
-  {
-    "id": "the-case-of-the-golden-idol",
-    "name": "The Case of the Golden Idol",
-    "exeName": "GoldenIdol.exe",
-    "creators": "Color Gray Games",
-    "pegi": "PEGI 16",
-    "summary": "A detective adventure that lets you think and investigate truly for yourself. Discover clues and piece together a series of mysterious deaths spanning 40 years.",
-    "steamAppId": 1677770,
-    "store": "Steam",
-    "genres": ["Detective", "Puzzle", "Indie"],
-    "year": 2022
-  },
-  {
-    "id": "construction-simulator",
-    "name": "Construction Simulator",
-    "exeName": "ConSim.exe",
-    "creators": "weltenbauer. Software Entwicklung",
-    "pegi": "PEGI 3",
-    "summary": "Take on over 90 construction tasks with licensed heavy machinery and vehicles from world-renowned brands across two expansive maps.",
-    "steamAppId": 1273400,
-    "store": "Steam",
-    "genres": ["Simulation", "Management"],
-    "year": 2022
-  },
-  {
-    "id": "lawn-mowing-simulator",
-    "name": "Lawn Mowing Simulator",
-    "exeName": "Lawn Mowing Simulator.exe",
-    "creators": "Skyhook Games",
-    "pegi": "PEGI 3",
-    "summary": "Experience the beauty and detail of mowing the Great British countryside in a simulation built around real-world licensed mowers.",
-    "steamAppId": 1480560,
-    "store": "Steam",
-    "genres": ["Simulation", "Relaxing"],
-    "year": 2021
-  },
-  {
-    "id": "gas-station-simulator",
-    "name": "Gas Station Simulator",
-    "exeName": "GSS2.exe",
-    "creators": "DRAGO entertainment",
-    "pegi": "PEGI 16",
-    "summary": "Buy an abandoned gas station along a desert highway, renovate it, expand services, and run your business in a busy roadside location.",
-    "steamAppId": 1149620,
-    "store": "Steam",
-    "genres": ["Simulation", "Management"],
-    "year": 2021
-  },
-  {
-    "id": "thief-simulator",
-    "name": "Thief Simulator",
-    "exeName": "thief.exe",
-    "creators": "Noble Muffins",
-    "pegi": "PEGI 16",
-    "summary": "Gather intel, steal valuable items, disassemble cars, and sell goods to buy high-tech burglary equipment in an open-world sandbox environment.",
-    "steamAppId": 704850,
-    "store": "Steam",
-    "genres": ["Simulation", "Stealth", "Action"],
-    "year": 2018
-  },
-  {
-    "id": "cooking-simulator",
-    "name": "Cooking Simulator",
-    "exeName": "CookingSimulator.exe",
-    "creators": "Big Cheese Studio",
-    "pegi": "PEGI 3",
-    "summary": "Master a realistic, polished kitchen equipped with all kinds of utensils and stands. Unlock and prepare over 80 recipes using real-life physics.",
-    "steamAppId": 641320,
-    "store": "Steam",
-    "genres": ["Simulation", "Indie"],
-    "year": 2019
-  },
-  {
-    "id": "internet-cafe-simulator-2",
-    "name": "Internet Cafe Simulator 2",
-    "exeName": "Internet Cafe Simulator 2.exe",
-    "creators": "Cheesecake Dev",
-    "pegi": "PEGI 16",
-    "summary": "Build and manage a comprehensive internet cafe business, upgrade computers, hire staff, and protect your establishment from street thugs.",
-    "steamAppId": 1563180,
-    "store": "Steam",
-    "genres": ["Simulation", "Management"],
-    "year": 2022
   }
 ]
