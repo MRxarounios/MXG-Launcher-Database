@@ -8,22 +8,13 @@
     "summary": "Experience Grand Theft Auto V's massive open world of Los Santos and Blaine County in stunning detail with ray tracing, faster loading, and high-fidelity graphics.",
     "steamAppId": 271590,
     "store": "Steam",
-    "genres": ["Open world", "Action"],
+    "genres": [
+      "Open world",
+      "Action"
+    ],
     "coverUrl": "https://cdn2.steamgriddb.com/thumb/a300cda08d24b7cf1cf45bd4eba1ae0b.jpg",
     "bannerUrl": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/89953o1153a39a/7605447a5de6d01bc62fc0ee04c97b37ccaa7e6b.jpg",
     "year": 2025
-  },
-  {
-    "id": "gta5-leg",
-    "name": "Grand Theft Auto V (Legacy)",
-    "exeName": "GTA5.exe",
-    "creators": "Rockstar North / Rockstar Games",
-    "pegi": "PEGI 18",
-    "summary": "The classic edition of GTA V, perfect for legacy mods, FiveM servers, and custom roleplay frameworks.",
-    "steamAppId": 271590,
-    "store": "Steam",
-    "genres": ["Open world", "Action"],
-    "year": 2015
   },
   {
     "id": "rdr2",
@@ -35,7 +26,11 @@
     "summary": "Winner of over 175 Game of the Year awards, Arthur Morgan and the Van der Linde gang are outlaws on the run across America at the dawn of the modern age.",
     "steamAppId": 1174180,
     "store": "Rockstar",
-    "genres": ["Open world", "Action", "Western"],
+    "genres": [
+      "Open world",
+      "Action",
+      "Western"
+    ],
     "year": 2019
   },
   {
@@ -46,7 +41,11 @@
     "pegi": "PEGI 18",
     "summary": "When federal agents threaten his family, former outlaw John Marston is forced to hunt down the gang of criminals he once called friends.",
     "store": "Rockstar",
-    "genres": ["Open world", "Action", "Western"],
+    "genres": [
+      "Open world",
+      "Action",
+      "Western"
+    ],
     "year": 2024
   },
   {
@@ -57,10 +56,18 @@
     "pegi": "PEGI 12",
     "summary": "Drop into Fortnite, a free-living, evolving multiplayer game where you can create, watch, and play with friends.",
     "store": "Epic",
-    "genres": ["Battle royale", "Shooter"],
+    "genres": [
+      "Battle royale",
+      "Shooter"
+    ],
     "coverUrl": "https://fortnite.weirdgloop.org/images/Fortnite_%28Update_v42.30%29_-_Cover_Art_-_Fortnite.jpg?c8e54",
     "bannerUrl": "https://i.ytimg.com/vi/7qQFLL_DJ7Q/maxresdefault.jpg",
-    "screenshots": ["https://cdn1.epicgames.com/offer/fn/FNBR_42-30_Fortnitemares_KeyArt_FNBR_EGS_Mobile_FeatMediaScreenshot_2688x1440_2688x1440-2e92a1ddb93c4b7b9d8add752c05c7b5", "https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fphotography-blog%2F19_1011_Upgraded_Combat_Screenshot-1920x1080-b7fb7387b1402312bbbe8fbba6954e1715095059.png", "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/resize=fit:clip,width:1920/quality=value:80/cmq112xge6hxl07mq6j6cv7fi", ""],
+    "screenshots": [
+      "https://cdn1.epicgames.com/offer/fn/FNBR_42-30_Fortnitemares_KeyArt_FNBR_EGS_Mobile_FeatMediaScreenshot_2688x1440_2688x1440-2e92a1ddb93c4b7b9d8add752c05c7b5",
+      "https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fphotography-blog%2F19_1011_Upgraded_Combat_Screenshot-1920x1080-b7fb7387b1402312bbbe8fbba6954e1715095059.png",
+      "https://cms-assets.unrealengine.com/cm6l5gfpm05kr07my04cqgy2x/resize=fit:clip,width:1920/quality=value:80/cmq112xge6hxl07mq6j6cv7fi",
+      ""
+    ],
     "year": 2017
   },
   {
@@ -72,7 +79,10 @@
     "summary": "Team up with friends in an oceanic adventure! Trap debris, research recipes, and survive the perils of a vast endless sea on your trusty plastic hook.",
     "steamAppId": 648800,
     "store": "Steam",
-    "genres": ["Survival", "Co-op"],
+    "genres": [
+      "Survival",
+      "Co-op"
+    ],
     "year": 2022
   },
   {
@@ -84,7 +94,10 @@
     "summary": "For over two decades, Counter-Strike has offered an elite competitive experience. CS2 is the largest technical leap in Counter-Strike history.",
     "steamAppId": 730,
     "store": "Steam",
-    "genres": ["Shooter", "Competitive"],
+    "genres": [
+      "Shooter",
+      "Competitive"
+    ],
     "year": 2023
   },
   {
@@ -96,7 +109,10 @@
     "summary": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances!",
     "steamAppId": 227300,
     "store": "Steam",
-    "genres": ["Simulation", "Driving"],
+    "genres": [
+      "Simulation",
+      "Driving"
+    ],
     "year": 2012
   },
   {
@@ -108,7 +124,10 @@
     "summary": "As the lone survivor of a passenger jet crash, find yourself in a mysterious forest battling against a society of mutant cannibals.",
     "steamAppId": 242760,
     "store": "Steam",
-    "genres": ["Survival", "Horror"],
+    "genres": [
+      "Survival",
+      "Horror"
+    ],
     "year": 2018
   },
   {
@@ -120,7 +139,11 @@
     "summary": "An open-world action RPG set in Night City, a violent megalopolis ruled by corporations. Build your mercenary, pick your implants, and chase a chip that could grant immortality.",
     "steamAppId": 1091500,
     "store": "Steam",
-    "genres": ["Open world", "RPG", "Sci-fi"],
+    "genres": [
+      "Open world",
+      "RPG",
+      "Sci-fi"
+    ],
     "year": 2020
   },
   {
@@ -132,7 +155,11 @@
     "summary": "Hunt monsters for coin as Geralt of Rivia while searching for Ciri across a war-torn continent. A huge story-driven RPG with choices that matter.",
     "steamAppId": 292030,
     "store": "Steam",
-    "genres": ["Open world", "RPG", "Fantasy"],
+    "genres": [
+      "Open world",
+      "RPG",
+      "Fantasy"
+    ],
     "year": 2015
   },
   {
@@ -144,7 +171,11 @@
     "summary": "Explore the Lands Between in an open-world action RPG built by FromSoftware with world-building from George R. R. Martin. Hard, strange, and very rewarding.",
     "steamAppId": 1245620,
     "store": "Steam",
-    "genres": ["Open world", "RPG", "Souls-like"],
+    "genres": [
+      "Open world",
+      "RPG",
+      "Souls-like"
+    ],
     "year": 2022
   },
   {
@@ -156,7 +187,11 @@
     "summary": "Become the Dragonborn and explore the frozen province of Skyrim. The remastered edition adds improved visuals and supports a huge mod library.",
     "steamAppId": 489830,
     "store": "Steam",
-    "genres": ["Open world", "RPG", "Fantasy"],
+    "genres": [
+      "Open world",
+      "RPG",
+      "Fantasy"
+    ],
     "year": 2016
   },
   {
@@ -168,7 +203,11 @@
     "summary": "Leave the vault into a post-nuclear Boston, craft weapons, and build settlements. A sprawling RPG with deep modding support.",
     "steamAppId": 377160,
     "store": "Steam",
-    "genres": ["Open world", "RPG", "Post-apocalyptic"],
+    "genres": [
+      "Open world",
+      "RPG",
+      "Post-apocalyptic"
+    ],
     "year": 2015
   },
   {
@@ -180,7 +219,11 @@
     "summary": "A turn-based Dungeons & Dragons RPG about a mind-flayer infection, a party of memorable companions, and consequences for nearly every choice. Playable solo or in co-op.",
     "steamAppId": 1086940,
     "store": "Steam",
-    "genres": ["RPG", "Co-op", "Fantasy"],
+    "genres": [
+      "RPG",
+      "Co-op",
+      "Fantasy"
+    ],
     "year": 2023
   },
   {
@@ -192,7 +235,11 @@
     "summary": "Kratos and his son Atreus travel through the realms of Norse mythology in a close-camera action adventure with weighty combat.",
     "steamAppId": 1593500,
     "store": "Steam",
-    "genres": ["Action", "Adventure", "Mythology"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mythology"
+    ],
     "year": 2022
   },
   {
@@ -204,7 +251,10 @@
     "summary": "A ground-up remake of the survival horror classic. Leon Kennedy heads to a remote Spanish village to rescue the President's daughter.",
     "steamAppId": 2050650,
     "store": "Steam",
-    "genres": ["Horror", "Action"],
+    "genres": [
+      "Horror",
+      "Action"
+    ],
     "year": 2023
   },
   {
@@ -216,7 +266,10 @@
     "summary": "A one-armed shinobi in Sengoku-era Japan. Fast, posture-based sword combat with stealth, a grappling hook, and no character classes.",
     "steamAppId": 814380,
     "store": "Steam",
-    "genres": ["Action", "Souls-like"],
+    "genres": [
+      "Action",
+      "Souls-like"
+    ],
     "year": 2019
   },
   {
@@ -228,7 +281,11 @@
     "summary": "The final chapter of the Dark Souls trilogy: a crumbling world, relentless bosses, and fast, precise combat.",
     "steamAppId": 374320,
     "store": "Steam",
-    "genres": ["Action", "RPG", "Souls-like"],
+    "genres": [
+      "Action",
+      "RPG",
+      "Souls-like"
+    ],
     "year": 2016
   },
   {
@@ -240,7 +297,11 @@
     "summary": "An open-world action RPG set in the wizarding world of the 1800s. Attend classes at Hogwarts, learn spells, and uncover an ancient secret.",
     "steamAppId": 990080,
     "store": "Steam",
-    "genres": ["Open world", "RPG", "Fantasy"],
+    "genres": [
+      "Open world",
+      "RPG",
+      "Fantasy"
+    ],
     "year": 2023
   },
   {
@@ -252,7 +313,10 @@
     "summary": "Drive hundreds of cars across a large, varied open world inspired by Mexico, from desert dunes to jungle roads and volcano slopes.",
     "steamAppId": 1551360,
     "store": "Steam",
-    "genres": ["Racing", "Open world"],
+    "genres": [
+      "Racing",
+      "Open world"
+    ],
     "year": 2021
   },
   {
@@ -264,7 +328,10 @@
     "summary": "Take on a doomsday cult in Hope County, Montana, with a rotating cast of allies and the freedom to approach each outpost your own way.",
     "steamAppId": 552520,
     "store": "Steam",
-    "genres": ["Open world", "Shooter"],
+    "genres": [
+      "Open world",
+      "Shooter"
+    ],
     "year": 2018
   },
   {
@@ -276,7 +343,10 @@
     "summary": "A free-to-play hero shooter battle royale. Pick a Legend with unique abilities and squad up to be the last team standing.",
     "steamAppId": 1172470,
     "store": "Steam",
-    "genres": ["Battle royale", "Shooter"],
+    "genres": [
+      "Battle royale",
+      "Shooter"
+    ],
     "year": 2019
   },
   {
@@ -288,7 +358,10 @@
     "summary": "Drop onto a large map, scavenge for gear, and outlast up to 99 other players in a realistic battle royale.",
     "steamAppId": 578080,
     "store": "Steam",
-    "genres": ["Battle royale", "Shooter"],
+    "genres": [
+      "Battle royale",
+      "Shooter"
+    ],
     "year": 2017
   },
   {
@@ -300,7 +373,11 @@
     "summary": "A tactical 5v5 shooter built around breaching and destructible environments. Attackers plan the assault, defenders fortify the site.",
     "steamAppId": 359550,
     "store": "Steam",
-    "genres": ["Shooter", "Competitive", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Competitive",
+      "Tactical"
+    ],
     "year": 2015
   },
   {
@@ -312,7 +389,10 @@
     "summary": "Two teams of five fight to destroy each other's Ancient. Over a hundred heroes, endless strategy, and one of the deepest competitive scenes around.",
     "steamAppId": 570,
     "store": "Steam",
-    "genres": ["MOBA", "Competitive"],
+    "genres": [
+      "MOBA",
+      "Competitive"
+    ],
     "year": 2013
   },
   {
@@ -324,7 +404,11 @@
     "summary": "Four survivors fight through hordes of infected in a co-op shooter, with an AI Director that changes every run.",
     "steamAppId": 550,
     "store": "Steam",
-    "genres": ["Shooter", "Co-op", "Horror"],
+    "genres": [
+      "Shooter",
+      "Co-op",
+      "Horror"
+    ],
     "year": 2009
   },
   {
@@ -335,7 +419,9 @@
     "summary": "A physics sandbox with no set goals. Build contraptions, play community game modes, and use thousands of workshop addons.",
     "steamAppId": 4000,
     "store": "Steam",
-    "genres": ["Sandbox"],
+    "genres": [
+      "Sandbox"
+    ],
     "year": 2006
   },
   {
@@ -346,7 +432,11 @@
     "summary": "Dig, fight, explore, and build in a 2D world. Play alone or with friends, and take on bosses across hundreds of items and biomes.",
     "steamAppId": 105600,
     "store": "Steam",
-    "genres": ["Sandbox", "Survival", "Co-op"],
+    "genres": [
+      "Sandbox",
+      "Survival",
+      "Co-op"
+    ],
     "year": 2011
   },
   {
@@ -357,7 +447,11 @@
     "summary": "Inherit your grandfather's farm and build a new life in the valley: grow crops, raise animals, mine, fish, and get to know the town. Co-op for up to four players.",
     "steamAppId": 413150,
     "store": "Steam",
-    "genres": ["Farming", "Co-op", "Relaxing"],
+    "genres": [
+      "Farming",
+      "Co-op",
+      "Relaxing"
+    ],
     "year": 2016
   },
   {
@@ -368,7 +462,10 @@
     "summary": "A hand-drawn 2D action adventure through the ruined insect kingdom of Hallownest. Tight combat, a huge connected map, and plenty of secrets.",
     "steamAppId": 367520,
     "store": "Steam",
-    "genres": ["Metroidvania", "Action"],
+    "genres": [
+      "Metroidvania",
+      "Action"
+    ],
     "year": 2017
   },
   {
@@ -379,7 +476,10 @@
     "summary": "Fight out of the Underworld as Zagreus, son of Hades. A fast roguelike where every escape attempt moves the story forward.",
     "steamAppId": 1145360,
     "store": "Steam",
-    "genres": ["Roguelike", "Action"],
+    "genres": [
+      "Roguelike",
+      "Action"
+    ],
     "year": 2020
   },
   {
@@ -390,7 +490,10 @@
     "summary": "A brutal exploration and survival game for solo play or up to ten friends, set in a procedurally generated purgatory inspired by Viking culture.",
     "steamAppId": 892970,
     "store": "Steam",
-    "genres": ["Survival", "Co-op"],
+    "genres": [
+      "Survival",
+      "Co-op"
+    ],
     "year": 2021
   },
   {
@@ -401,7 +504,10 @@
     "summary": "A four-player online co-op horror game. Investigate haunted locations, identify the ghost, and collect evidence using real ghost-hunting gear.",
     "steamAppId": 739630,
     "store": "Steam",
-    "genres": ["Horror", "Co-op"],
+    "genres": [
+      "Horror",
+      "Co-op"
+    ],
     "year": 2020
   },
   {
@@ -412,7 +518,10 @@
     "summary": "Crewmates finish tasks while impostors sabotage and vote players off. A social deduction party game for 4 to 15 players.",
     "steamAppId": 945360,
     "store": "Steam",
-    "genres": ["Party", "Social deduction"],
+    "genres": [
+      "Party",
+      "Social deduction"
+    ],
     "year": 2018
   },
   {
@@ -424,7 +533,11 @@
     "summary": "Soccer played with rocket-powered cars. Easy to pick up, with a very high skill ceiling in ranked play.",
     "steamAppId": 252950,
     "store": "Epic",
-    "genres": ["Sports", "Competitive", "Racing"],
+    "genres": [
+      "Sports",
+      "Competitive",
+      "Racing"
+    ],
     "year": 2015
   },
   {
@@ -435,7 +548,11 @@
     "summary": "Crash-land on an alien ocean planet and survive: gather resources, build bases and submersibles, and dive into the deep.",
     "steamAppId": 264710,
     "store": "Steam",
-    "genres": ["Survival", "Open world", "Sci-fi"],
+    "genres": [
+      "Survival",
+      "Open world",
+      "Sci-fi"
+    ],
     "year": 2018
   },
   {
@@ -446,7 +563,11 @@
     "summary": "Explore a procedurally generated universe of planets, trade, fight, and build bases. Play solo or with friends.",
     "steamAppId": 275850,
     "store": "Steam",
-    "genres": ["Open world", "Survival", "Sci-fi"],
+    "genres": [
+      "Open world",
+      "Survival",
+      "Sci-fi"
+    ],
     "year": 2016
   },
   {
@@ -457,7 +578,10 @@
     "summary": "Build an empire to stand the test of time in this turn-based strategy game. Expand across the map, research, and lead your civilization to victory.",
     "steamAppId": 289070,
     "store": "Steam",
-    "genres": ["Strategy", "Turn-based"],
+    "genres": [
+      "Strategy",
+      "Turn-based"
+    ],
     "year": 2016
   },
   {
@@ -468,7 +592,10 @@
     "summary": "A co-op horror game about scavenging abandoned moons for scrap to meet the Company's profit quota. Proximity voice chat makes everything worse.",
     "steamAppId": 1966720,
     "store": "Steam",
-    "genres": ["Horror", "Co-op"],
+    "genres": [
+      "Horror",
+      "Co-op"
+    ],
     "year": 2023
   },
   {
@@ -479,7 +606,11 @@
     "summary": "Catch creatures called Pals, put them to work on your base, and fight alongside them in an open-world survival crafting game.",
     "steamAppId": 1623730,
     "store": "Steam",
-    "genres": ["Survival", "Open world", "Co-op"],
+    "genres": [
+      "Survival",
+      "Open world",
+      "Co-op"
+    ],
     "year": 2024
   },
   {
@@ -491,7 +622,10 @@
     "summary": "The open roads of the American West: haul cargo across the United States, upgrade your truck, and grow your own trucking company.",
     "steamAppId": 270880,
     "store": "Steam",
-    "genres": ["Simulation", "Driving"],
+    "genres": [
+      "Simulation",
+      "Driving"
+    ],
     "year": 2016
   },
   {
@@ -502,7 +636,10 @@
     "summary": "The standalone multiplayer version of the hand-drawn survival game. Gather, craft, and stay alive through the seasons with friends.",
     "steamAppId": 322330,
     "store": "Steam",
-    "genres": ["Survival", "Co-op"],
+    "genres": [
+      "Survival",
+      "Co-op"
+    ],
     "year": 2016
   },
   {
@@ -513,7 +650,10 @@
     "summary": "A party platformer where a crowd of bean-shaped contestants race through obstacle courses until one is crowned winner.",
     "steamAppId": 1097150,
     "store": "Epic",
-    "genres": ["Party", "Platformer"],
+    "genres": [
+      "Party",
+      "Platformer"
+    ],
     "year": 2020
   },
   {
@@ -524,10 +664,20 @@
     "pegi": "PEGI 7",
     "summary": "Build, mine, and survive in a world made of blocks. Launches through the official Minecraft Launcher for Java and Bedrock editions.",
     "store": "Microsoft",
-    "genres": ["Sandbox", "Survival", "Co-op"],
+    "genres": [
+      "Sandbox",
+      "Survival",
+      "Co-op"
+    ],
     "coverUrl": "https://howlongtobeat.com/games/6064_Minecraft.jpg",
     "bannerUrl": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/NewKeyArt_Header.jpg",
-    "screenshots": ["https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/CREATE_BuildAlmostAnything.png", "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PLAYTOGETHERPDPScreenshotRefresh2024_exitingPortal_01.png", "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/EXPERIENCE_MORE_MinecraftEDU_PrivacyProdigy_darkWeb.png", "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/EXPLORE_PDPScreenshotRefresh2024_multipleBiomes_01.png", "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/SURVIVE.png"],
+    "screenshots": [
+      "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/CREATE_BuildAlmostAnything.png",
+      "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/PLAYTOGETHERPDPScreenshotRefresh2024_exitingPortal_01.png",
+      "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/EXPERIENCE_MORE_MinecraftEDU_PrivacyProdigy_darkWeb.png",
+      "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/EXPLORE_PDPScreenshotRefresh2024_multipleBiomes_01.png",
+      "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/SURVIVE.png"
+    ],
     "year": 2011
   },
   {
@@ -538,10 +688,16 @@
     "pegi": "PEGI 7",
     "summary": "Build, mine, and survive in a world made of blocks. Launches through the official Minecraft Launcher for Java and Bedrock editions.",
     "store": "Internet",
-    "genres": ["Sandbox", "Survival", "Co-op"],
+    "genres": [
+      "Sandbox",
+      "Survival",
+      "Co-op"
+    ],
     "coverUrl": "https://i.imgur.com/t5r6mTm.png",
     "bannerUrl": "https://next.skmedix.pl/images/4.0-beta.png",
-    "screenshots": ["https://next.skmedix.pl/skl.svg"],
+    "screenshots": [
+      "https://next.skmedix.pl/skl.svg"
+    ],
     "year": 2015
   },
   {
@@ -552,10 +708,16 @@
     "pegi": "PEGI 7",
     "summary": "Build, mine, and survive in a world made of blocks. Launches through the official Minecraft Launcher for Java and Bedrock editions.",
     "store": "Internet",
-    "genres": ["Sandbox", "Survival", "Co-op"],
+    "genres": [
+      "Sandbox",
+      "Survival",
+      "Co-op"
+    ],
     "coverUrl": "https://cdn2.steamgriddb.com/grid/7d7d6a93a6478c17de7021b137c04549.png",
     "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZSfamw5njY-BkwsqXuTZxJR3GSFzIgYxw7dkaqhWXPeEC4I6y-w4x08&s=10",
-    "screenshots": ["https://a.storyblok.com/f/150231/1450x860/3a8ee6e4b4/tiltedlauncher.png"],
+    "screenshots": [
+      "https://a.storyblok.com/f/150231/1450x860/3a8ee6e4b4/tiltedlauncher.png"
+    ],
     "year": 2019
   },
   {
@@ -565,7 +727,11 @@
     "creators": "Riot Games",
     "summary": "A 5v5 tactical shooter where precise gunplay meets agent abilities. Plant or defuse the spike across rounds.",
     "store": "Riot",
-    "genres": ["Shooter", "Competitive", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Competitive",
+      "Tactical"
+    ],
     "year": 2020
   },
   {
@@ -575,7 +741,10 @@
     "creators": "Riot Games",
     "summary": "A team-based strategy game where two teams of five champions push through the map to destroy the enemy Nexus.",
     "store": "Riot",
-    "genres": ["MOBA", "Competitive"],
+    "genres": [
+      "MOBA",
+      "Competitive"
+    ],
     "year": 2009
   },
   {
@@ -587,7 +756,10 @@
     "summary": "The world's game brings even more action and football realism to the pitch with HyperMotion2 Technology and men's and women's FIFA World Cup tournaments.",
     "steamAppId": 1811260,
     "store": "Steam",
-    "genres": ["Sports", "Simulation"],
+    "genres": [
+      "Sports",
+      "Simulation"
+    ],
     "year": 2022
   },
   {
@@ -599,7 +771,11 @@
     "summary": "A next-generation driving simulator featuring an advanced DirectX 11 graphics engine that recreates an immersive driving experience with legendary tracks and official cars.",
     "steamAppId": 244210,
     "store": "Steam",
-    "genres": ["Simulation", "Racing", "Competitive"],
+    "genres": [
+      "Simulation",
+      "Racing",
+      "Competitive"
+    ],
     "year": 2014,
     "folder": "assettocorsa"
   },
@@ -612,7 +788,11 @@
     "summary": "A realistic, immersive driving game offering near-limitless possibilities thanks to a soft-body physics engine that simulates every component of a vehicle in real-time.",
     "steamAppId": 284160,
     "store": "Steam",
-    "genres": ["Simulation", "Sandbox", "Racing"],
+    "genres": [
+      "Simulation",
+      "Sandbox",
+      "Racing"
+    ],
     "year": 2015
   },
   {
@@ -624,7 +804,11 @@
     "summary": "Step into the shoes of three distinct androids in a thrilling neo-noir futuristic city where your every choice drastically shapes the narrative outcome.",
     "steamAppId": 1222140,
     "store": "Steam",
-    "genres": ["Action", "Adventure", "Sci-fi"],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-fi"
+    ],
     "year": 2020
   },
   {
@@ -636,7 +820,10 @@
     "summary": "Re-made from the ground up, rise through the ranks of the mob during the Prohibition-era of organized crime in this cinematic third-person action adventure.",
     "steamAppId": 1030840,
     "store": "Steam",
-    "genres": ["Open world", "Action"],
+    "genres": [
+      "Open world",
+      "Action"
+    ],
     "year": 2020
   },
   {
@@ -648,7 +835,10 @@
     "summary": "A mature, non-linear role-playing game featuring a deep story-driven experience and brutal tactical combat as Geralt seeks to clear his name.",
     "steamAppId": 20920,
     "store": "Steam",
-    "genres": ["RPG", "Fantasy"],
+    "genres": [
+      "RPG",
+      "Fantasy"
+    ],
     "year": 2011
   },
   {
@@ -660,7 +850,11 @@
     "summary": "Experience the dawn of total war in World War I, featuring massive 64-player multiplayer battles and immersive operations across diverse fronts.",
     "steamAppId": 1238840,
     "store": "Steam",
-    "genres": ["Shooter", "Action", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Action",
+      "Tactical"
+    ],
     "year": 2016
   },
   {
@@ -672,7 +866,11 @@
     "summary": "Enter humanity's greatest conflict with Battlefield V as the series goes back to its roots in a never-before-seen portrayal of World War II.",
     "steamAppId": 1238810,
     "store": "Steam",
-    "genres": ["Shooter", "Action", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Action",
+      "Tactical"
+    ],
     "year": 2018
   },
   {
@@ -684,7 +882,11 @@
     "summary": "A first-person shooter that marks the return to the iconic all-out warfare of the franchise in a near-future world transformed by disorder.",
     "steamAppId": 1517290,
     "store": "Steam",
-    "genres": ["Shooter", "Action", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Action",
+      "Tactical"
+    ],
     "year": 2021
   },
   {
@@ -696,7 +898,10 @@
     "summary": "Hustle by day and risk it all by night in this street racing thriller where you fight rogue police departments and build your dream garage.",
     "steamAppId": 1222680,
     "store": "Steam",
-    "genres": ["Racing", "Open world"],
+    "genres": [
+      "Racing",
+      "Open world"
+    ],
     "year": 2019
   },
   {
@@ -708,7 +913,10 @@
     "summary": "Race against the clock, outsmart the cops, and enter weekly qualifiers for Lakeshore's ultimate street racing challenge with striking visual graffiti styles.",
     "steamAppId": 1846380,
     "store": "Steam",
-    "genres": ["Racing", "Open world"],
+    "genres": [
+      "Racing",
+      "Open world"
+    ],
     "year": 2022
   },
   {
@@ -720,7 +928,10 @@
     "summary": "To be the Most Wanted you need to outrun the cops, outdrive your friends, and outsmart your rivals in an open-world racing sandbox.",
     "steamAppId": 1262540,
     "store": "Steam",
-    "genres": ["Racing", "Open world"],
+    "genres": [
+      "Racing",
+      "Open world"
+    ],
     "year": 2012
   },
   {
@@ -732,7 +943,10 @@
     "summary": "Relentless demons, impossibly destructive guns, and fast, fluid movement provide for intense, first-person combat as the legendary Doom Slayer.",
     "steamAppId": 379720,
     "store": "Steam",
-    "genres": ["Shooter", "Action"],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
     "year": 2016
   },
   {
@@ -744,7 +958,10 @@
     "summary": "Hell's armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the ultimate destruction of humanity.",
     "steamAppId": 782330,
     "store": "Steam",
-    "genres": ["Shooter", "Action"],
+    "genres": [
+      "Shooter",
+      "Action"
+    ],
     "year": 2020
   },
   {
@@ -756,7 +973,10 @@
     "summary": "Combining Counter-Strike's award-winning teamplay action with the robust technology of the Source engine, featuring advanced physics and audio.",
     "steamAppId": 240,
     "store": "Steam",
-    "genres": ["Shooter", "Competitive"],
+    "genres": [
+      "Shooter",
+      "Competitive"
+    ],
     "year": 2004,
     "folder": "Counter-Strike Source",
     "requires": "cstrike"
@@ -770,7 +990,10 @@
     "summary": "The quintessential tactical team-based shooter that defined the genre, pitting counter-terrorists against terrorists in classic bomb-defusal and hostage rescue scenarios.",
     "steamAppId": 10,
     "store": "Steam",
-    "genres": ["Shooter", "Competitive"],
+    "genres": [
+      "Shooter",
+      "Competitive"
+    ],
     "year": 2000,
     "folder": "Half-Life",
     "requires": "cstrike",
@@ -785,7 +1008,11 @@
     "summary": "By taking the values of tension, peril, and visceral connection, Half-Life 2 opened the door to a vibrant world where the player's presence affects everything around them.",
     "steamAppId": 220,
     "store": "Steam",
-    "genres": ["Shooter", "Action", "Sci-fi"],
+    "genres": [
+      "Shooter",
+      "Action",
+      "Sci-fi"
+    ],
     "year": 2004,
     "folder": "Half-Life 2",
     "requires": "hl2"
@@ -799,7 +1026,11 @@
     "summary": "Draws from the award-winning formula of innovative gameplay, story, and music that earned the original Portal over 70 industry accolades.",
     "steamAppId": 620,
     "store": "Steam",
-    "genres": ["Puzzle", "Co-op", "Sci-fi"],
+    "genres": [
+      "Puzzle",
+      "Co-op",
+      "Sci-fi"
+    ],
     "year": 2011
   },
   {
@@ -811,7 +1042,11 @@
     "summary": "A critically acclaimed open-world mystery about a solar system trapped in an endless 22-minute time loop, driven by sheer curiosity and exploration.",
     "steamAppId": 753640,
     "store": "Steam",
-    "genres": ["Open world", "Puzzle", "Exploration"],
+    "genres": [
+      "Open world",
+      "Puzzle",
+      "Exploration"
+    ],
     "year": 2019
   },
   {
@@ -823,7 +1058,11 @@
     "summary": "A 1-4 player co-op FPS featuring badass space dwarves, 100% destructible environments, procedurally-generated caves, and endless hordes of alien monsters.",
     "steamAppId": 548430,
     "store": "Steam",
-    "genres": ["Shooter", "Co-op", "Survival"],
+    "genres": [
+      "Shooter",
+      "Co-op",
+      "Survival"
+    ],
     "year": 2020
   },
   {
@@ -835,7 +1074,11 @@
     "summary": "A groundbreaking role-playing game where you are a detective with a unique skill system at your disposal and a whole city block to carve your path across.",
     "steamAppId": 632470,
     "store": "Steam",
-    "genres": ["RPG", "Detective", "Indie"],
+    "genres": [
+      "RPG",
+      "Detective",
+      "Indie"
+    ],
     "year": 2019
   },
   {
@@ -846,7 +1089,11 @@
     "summary": "A game in which you build and maintain automated factories of increasing complexity, mining resources, researching technologies, and fighting local alien creatures.",
     "steamAppId": 427520,
     "store": "Steam",
-    "genres": ["Strategy", "Simulation", "Sandbox"],
+    "genres": [
+      "Strategy",
+      "Simulation",
+      "Sandbox"
+    ],
     "year": 2020
   },
   {
@@ -858,7 +1105,11 @@
     "summary": "A first-person open-world factory building game with a dash of exploration and combat. Conquer planet Massage-4ABb either alone or with friends.",
     "steamAppId": 526870,
     "store": "Steam",
-    "genres": ["Simulation", "Open world", "Co-op"],
+    "genres": [
+      "Simulation",
+      "Open world",
+      "Co-op"
+    ],
     "year": 2024
   },
   {
@@ -870,7 +1121,11 @@
     "summary": "An open-ended zombie survival simulator. Alone or in multiplayer: you loot, build, craft, fight, farm and fish in a struggle to survive.",
     "steamAppId": 108600,
     "store": "Steam",
-    "genres": ["Survival", "Open world", "Horror"],
+    "genres": [
+      "Survival",
+      "Open world",
+      "Horror"
+    ],
     "year": 2013
   },
   {
@@ -881,7 +1136,11 @@
     "summary": "A sci-fi colony sim driven by an intelligent AI storyteller. Sculpt designs, manage moods, trade, and protect your crash-landed colonists.",
     "steamAppId": 294100,
     "store": "Steam",
-    "genres": ["Simulation", "Strategy", "Survival"],
+    "genres": [
+      "Simulation",
+      "Strategy",
+      "Survival"
+    ],
     "year": 2018
   },
   {
@@ -893,7 +1152,11 @@
     "summary": "Sent to find a missing billionaire on a remote island, find yourself in a cannibal-infested nightmare in this open-world survival horror sequel.",
     "steamAppId": 1326470,
     "store": "Steam",
-    "genres": ["Survival", "Horror", "Open world"],
+    "genres": [
+      "Survival",
+      "Horror",
+      "Open world"
+    ],
     "year": 2024
   },
   {
@@ -905,7 +1168,10 @@
     "summary": "An action-driving MMO taking players on a wild ride across a massive open-world recreation of the United States.",
     "steamAppId": 241560,
     "store": "Ubisoft",
-    "genres": ["Racing", "Open world"],
+    "genres": [
+      "Racing",
+      "Open world"
+    ],
     "year": 2014
   },
   {
@@ -917,7 +1183,11 @@
     "summary": "Take on the American motorsports scene as you explore land, air, and sea across a fully redesigned US open world.",
     "steamAppId": 646910,
     "store": "Steam",
-    "genres": ["Racing", "Open world", "Sports"],
+    "genres": [
+      "Racing",
+      "Open world",
+      "Sports"
+    ],
     "year": 2018
   },
   {
@@ -928,7 +1198,10 @@
     "pegi": "PEGI 12",
     "summary": "Experience the best car culture has to offer in an open world set on the vibrant Hawaiian island of O'ahu.",
     "store": "Ubisoft",
-    "genres": ["Racing", "Open world"],
+    "genres": [
+      "Racing",
+      "Open world"
+    ],
     "year": 2023
   },
   {
@@ -940,7 +1213,10 @@
     "summary": "The tactical counter-terrorism shooter that started the legendary franchise, focusing on precise planning and execution.",
     "steamAppId": 15170,
     "store": "Steam",
-    "genres": ["Shooter", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
     "year": 1998
   },
   {
@@ -951,7 +1227,10 @@
     "pegi": "PEGI 16",
     "summary": "A beloved classic tactical shooter featuring intense indoor combat, detailed equipment customization, and high stakes.",
     "store": "Steam",
-    "genres": ["Shooter", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
     "year": 2003
   },
   {
@@ -963,7 +1242,10 @@
     "summary": "Command an elite squad of US Army Green Berets across volatile conflict zones in this seminal tactical military shooter.",
     "steamAppId": 15300,
     "store": "Steam",
-    "genres": ["Shooter", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
     "year": 2001
   },
   {
@@ -974,7 +1256,10 @@
     "pegi": "PEGI 16",
     "summary": "Lead the Ghosts in futuristic urban warfare across Mexico City utilizing advanced battlefield cross-com technology.",
     "store": "Steam",
-    "genres": ["Shooter", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
     "year": 2006
   },
   {
@@ -986,7 +1271,11 @@
     "summary": "Take down a powerful drug cartel in a massive open-world Bolivia either solo or in 4-player tactical co-op.",
     "steamAppId": 460930,
     "store": "Steam",
-    "genres": ["Open world", "Shooter", "Tactical"],
+    "genres": [
+      "Open world",
+      "Shooter",
+      "Tactical"
+    ],
     "year": 2017
   },
   {
@@ -998,7 +1287,11 @@
     "summary": "Stranded behind enemy lines on Auroa archipelago, face rogue military forces known as the Wolves.",
     "steamAppId": 2231380,
     "store": "Steam",
-    "genres": ["Open world", "Shooter", "Tactical"],
+    "genres": [
+      "Open world",
+      "Shooter",
+      "Tactical"
+    ],
     "year": 2019
   },
   {
@@ -1010,7 +1303,11 @@
     "summary": "A deadly pandemic hits New York City on Black Friday. As an agent of The Division, restore order in a tense online RPG shooter.",
     "steamAppId": 365590,
     "store": "Steam",
-    "genres": ["RPG", "Shooter", "Co-op"],
+    "genres": [
+      "RPG",
+      "Shooter",
+      "Co-op"
+    ],
     "year": 2016
   },
   {
@@ -1022,7 +1319,11 @@
     "summary": "Fight to save a collapsing Washington D.C. in a refined loot-driven tactical multiplayer shooter experience.",
     "steamAppId": 2221490,
     "store": "Steam",
-    "genres": ["RPG", "Shooter", "Co-op"],
+    "genres": [
+      "RPG",
+      "Shooter",
+      "Co-op"
+    ],
     "year": 2019
   },
   {
@@ -1034,7 +1335,10 @@
     "summary": "Introduce yourself to Sam Fisher, NSA's premier stealth operative, as you infiltrate high-security installations in the shadows.",
     "steamAppId": 13560,
     "store": "Steam",
-    "genres": ["Stealth", "Action"],
+    "genres": [
+      "Stealth",
+      "Action"
+    ],
     "year": 2002
   },
   {
@@ -1045,7 +1349,10 @@
     "pegi": "PEGI 16",
     "summary": "Sam Fisher returns in a globe-trotting espionage thriller dealing with a biological warfare threat.",
     "store": "Steam",
-    "genres": ["Stealth", "Action"],
+    "genres": [
+      "Stealth",
+      "Action"
+    ],
     "year": 2004
   },
   {
@@ -1057,7 +1364,10 @@
     "summary": "Widely regarded as the pinnacle of stealth gaming, featuring advanced light mechanics, interactive knife kills, and co-op campaigns.",
     "steamAppId": 13570,
     "store": "Steam",
-    "genres": ["Stealth", "Action"],
+    "genres": [
+      "Stealth",
+      "Action"
+    ],
     "year": 2005
   },
   {
@@ -1069,7 +1379,10 @@
     "summary": "A rogue Sam Fisher uncovers a deep conspiracy while utilizing aggressive 'mark and execute' combat mechanics.",
     "steamAppId": 33220,
     "store": "Steam",
-    "genres": ["Action", "Stealth"],
+    "genres": [
+      "Action",
+      "Stealth"
+    ],
     "year": 2010
   },
   {
@@ -1081,7 +1394,10 @@
     "summary": "As head of the newly formed Fourth Echelon, stop a series of escalating terror attacks known as the Blacklist.",
     "steamAppId": 235600,
     "store": "Steam",
-    "genres": ["Action", "Stealth"],
+    "genres": [
+      "Action",
+      "Stealth"
+    ],
     "year": 2013
   },
   {
@@ -1092,7 +1408,10 @@
     "pegi": "PEGI 12",
     "summary": "Pilot state-of-the-art fighter jets in thrilling aerial combat across realistic global locations.",
     "store": "Ubisoft",
-    "genres": ["Simulation", "Action"],
+    "genres": [
+      "Simulation",
+      "Action"
+    ],
     "year": 2009
   },
   {
@@ -1104,7 +1423,10 @@
     "summary": "Follow Niko Bellic as he arrives in Liberty City chasing the American Dream amidst crime, debt, and corruption.",
     "steamAppId": 12210,
     "store": "Steam",
-    "genres": ["Open world", "Action"],
+    "genres": [
+      "Open world",
+      "Action"
+    ],
     "year": 2008
   },
   {
@@ -1116,7 +1438,10 @@
     "summary": "CJ returns home to Los Santos, San Andreas, to save his family and take back the streets in a monumental open-world classic.",
     "steamAppId": 12120,
     "store": "Steam",
-    "genres": ["Open world", "Action"],
+    "genres": [
+      "Open world",
+      "Action"
+    ],
     "year": 2004
   },
   {
@@ -1128,7 +1453,10 @@
     "summary": "A neon-soaked tale of 1980s crime, betrayal, and building an empire in a tropical paradise inspired by Miami.",
     "steamAppId": 12110,
     "store": "Steam",
-    "genres": ["Open world", "Action"],
+    "genres": [
+      "Open world",
+      "Action"
+    ],
     "year": 2002
   },
   {
@@ -1140,7 +1468,10 @@
     "summary": "The groundbreaking 3D open-world crime epic that revolutionized video games in Liberty City.",
     "steamAppId": 12100,
     "store": "Steam",
-    "genres": ["Open world", "Action"],
+    "genres": [
+      "Open world",
+      "Action"
+    ],
     "year": 2001
   },
   {
@@ -1152,7 +1483,10 @@
     "summary": "A broken, cynical Max Payne takes a private security job in São Paulo, Brazil, protecting a wealthy family.",
     "steamAppId": 204100,
     "store": "Steam",
-    "genres": ["Action", "Shooter"],
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
     "year": 2012
   },
   {
@@ -1164,7 +1498,10 @@
     "summary": "A violent, film-noir love story filled with slow-motion bullet time gunfights and dark tragedy.",
     "steamAppId": 7840,
     "store": "Steam",
-    "genres": ["Action", "Shooter"],
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
     "year": 2003
   },
   {
@@ -1176,7 +1513,10 @@
     "summary": "An undercover cop framed for murder hunts down the syndicate responsible for his family's death in a blizzard-hit New York.",
     "steamAppId": 12140,
     "store": "Steam",
-    "genres": ["Action", "Shooter"],
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
     "year": 2001
   },
   {
@@ -1188,7 +1528,11 @@
     "summary": "Solve brutal crimes in 1947 Hollywood using revolutionary facial animation technology to interrogate suspects.",
     "steamAppId": 110800,
     "store": "Steam",
-    "genres": ["Detective", "Open world", "Action"],
+    "genres": [
+      "Detective",
+      "Open world",
+      "Action"
+    ],
     "year": 2011
   },
   {
@@ -1200,7 +1544,10 @@
     "summary": "Navigate the hilarious and corrupt social hierarchy of Bullworth Academy as rebellious teenager Jimmy Hopkins.",
     "steamAppId": 12200,
     "store": "Steam",
-    "genres": ["Open world", "Action"],
+    "genres": [
+      "Open world",
+      "Action"
+    ],
     "year": 2008
   },
   {
@@ -1211,7 +1558,10 @@
     "pegi": "PEGI 12",
     "summary": "High-speed illegal street racing across open urban environments in Los Angeles, Paris, and Tokyo.",
     "store": "Rockstar",
-    "genres": ["Racing", "Arcade"],
+    "genres": [
+      "Racing",
+      "Arcade"
+    ],
     "year": 2003
   },
   {
@@ -1223,7 +1573,10 @@
     "summary": "Survive a nightmarish snuff film underground by using stealth and brutal execution tactics.",
     "steamAppId": 12130,
     "store": "Steam",
-    "genres": ["Stealth", "Horror"],
+    "genres": [
+      "Stealth",
+      "Horror"
+    ],
     "year": 2004
   },
   {
@@ -1234,7 +1587,10 @@
     "pegi": "PEGI 18",
     "summary": "A gritty beat-'em-up adaptation of the cult classic film following a New York street gang framed for murder.",
     "store": "Rockstar",
-    "genres": ["Action", "Beat-em-up"],
+    "genres": [
+      "Action",
+      "Beat-em-up"
+    ],
     "year": 2005
   },
   {
@@ -1246,7 +1602,10 @@
     "summary": "Includes The Lost and Damned and The Ballad of Gay Tony, two separate criminal stories set concurrently with GTA IV.",
     "steamAppId": 12220,
     "store": "Steam",
-    "genres": ["Open world", "Action"],
+    "genres": [
+      "Open world",
+      "Action"
+    ],
     "year": 2009
   },
   {
@@ -1258,7 +1617,10 @@
     "summary": "Solve physics puzzles using a handheld portal device while dealing with a passive-aggressive AI named GLaDOS.",
     "steamAppId": 400,
     "store": "Steam",
-    "genres": ["Puzzle", "Sci-fi"],
+    "genres": [
+      "Puzzle",
+      "Sci-fi"
+    ],
     "year": 2007,
     "folder": "Portal",
     "requires": "portal",
@@ -1273,7 +1635,10 @@
     "summary": "The sci-fi shooter masterpiece that changed FPS gaming forever following Gordon Freeman's Black Mesa disaster.",
     "steamAppId": 70,
     "store": "Steam",
-    "genres": ["Shooter", "Sci-fi"],
+    "genres": [
+      "Shooter",
+      "Sci-fi"
+    ],
     "year": 1998,
     "folder": "Half-Life",
     "requires": "valve"
@@ -1287,7 +1652,10 @@
     "summary": "Experience the Black Mesa incident from the perspective of military marine Adrian Shephard.",
     "steamAppId": 50,
     "store": "Steam",
-    "genres": ["Shooter", "Sci-fi"],
+    "genres": [
+      "Shooter",
+      "Sci-fi"
+    ],
     "year": 1999,
     "folder": "Half-Life",
     "requires": "gearbox",
@@ -1302,7 +1670,10 @@
     "summary": "Play as security guard Barney Calhoun during the chaotic alien invasion of the Black Mesa research facility.",
     "steamAppId": 130,
     "store": "Steam",
-    "genres": ["Shooter", "Sci-fi"],
+    "genres": [
+      "Shooter",
+      "Sci-fi"
+    ],
     "year": 2001,
     "folder": "Half-Life",
     "requires": "bshift",
@@ -1317,7 +1688,11 @@
     "summary": "Valve's stunning return to the Half-Life series built from the ground up for virtual reality.",
     "steamAppId": 546560,
     "store": "Steam",
-    "genres": ["VR", "Shooter", "Sci-fi"],
+    "genres": [
+      "VR",
+      "Shooter",
+      "Sci-fi"
+    ],
     "year": 2020
   },
   {
@@ -1329,7 +1704,11 @@
     "summary": "The original cooperative zombie shooter where teamwork is essential to survive across cinematic campaigns.",
     "steamAppId": 500,
     "store": "Steam",
-    "genres": ["Shooter", "Co-op", "Horror"],
+    "genres": [
+      "Shooter",
+      "Co-op",
+      "Horror"
+    ],
     "year": 2008
   },
   {
@@ -1341,7 +1720,11 @@
     "summary": "Features a brilliant single-player campaign and fast-paced multiplayer combining agile pilot movement with massive mechs.",
     "steamAppId": 1237970,
     "store": "Steam",
-    "genres": ["Shooter", "Sci-fi", "Action"],
+    "genres": [
+      "Shooter",
+      "Sci-fi",
+      "Action"
+    ],
     "year": 2016
   },
   {
@@ -1353,7 +1736,11 @@
     "summary": "Explore the ruined underwater dystopian city of Rapture while modifying your DNA with plasmids.",
     "steamAppId": 409710,
     "store": "Steam",
-    "genres": ["Shooter", "Sci-fi", "RPG"],
+    "genres": [
+      "Shooter",
+      "Sci-fi",
+      "RPG"
+    ],
     "year": 2016
   },
   {
@@ -1365,7 +1752,10 @@
     "summary": "Step into the heavy boots of a powerful Big Daddy exploring Rapture years after the original game.",
     "steamAppId": 409720,
     "store": "Steam",
-    "genres": ["Shooter", "Sci-fi"],
+    "genres": [
+      "Shooter",
+      "Sci-fi"
+    ],
     "year": 2016
   },
   {
@@ -1377,7 +1767,10 @@
     "summary": "Set in the airborne floating city of Columbia, rescue a mysterious girl named Elizabeth with reality-bending powers.",
     "steamAppId": 8870,
     "store": "Steam",
-    "genres": ["Shooter", "Sci-fi"],
+    "genres": [
+      "Shooter",
+      "Sci-fi"
+    ],
     "year": 2013
   },
   {
@@ -1389,7 +1782,10 @@
     "summary": "Relive the cinematic sci-fi RPG saga of Commander Shepard across all three remastered masterpieces.",
     "steamAppId": 1328670,
     "store": "Steam",
-    "genres": ["RPG", "Sci-fi"],
+    "genres": [
+      "RPG",
+      "Sci-fi"
+    ],
     "year": 2021
   },
   {
@@ -1401,7 +1797,10 @@
     "summary": "An epic dark fantasy RPG where you are the last Grey Warden tasked with stopping an ancient blight.",
     "steamAppId": 17450,
     "store": "Steam",
-    "genres": ["RPG", "Fantasy"],
+    "genres": [
+      "RPG",
+      "Fantasy"
+    ],
     "year": 2009
   },
   {
@@ -1412,7 +1811,10 @@
     "pegi": "PEGI 18",
     "summary": "Lead the Inquisition to save Thedas from a cataclysmic tear in the sky in a vast open-world fantasy RPG.",
     "store": "Steam",
-    "genres": ["RPG", "Fantasy"],
+    "genres": [
+      "RPG",
+      "Fantasy"
+    ],
     "year": 2014
   },
   {
@@ -1424,7 +1826,10 @@
     "summary": "A ground-up remake of the sci-fi survival horror classic aboard the mining ship USG Ishimura.",
     "steamAppId": 1693980,
     "store": "Steam",
-    "genres": ["Horror", "Sci-fi"],
+    "genres": [
+      "Horror",
+      "Sci-fi"
+    ],
     "year": 2023
   },
   {
@@ -1436,7 +1841,10 @@
     "summary": "Experience the terrifying outbreak in Raccoon City through the harrowing perspectives of Leon and Claire.",
     "steamAppId": 883710,
     "store": "Steam",
-    "genres": ["Horror", "Action"],
+    "genres": [
+      "Horror",
+      "Action"
+    ],
     "year": 2019
   },
   {
@@ -1448,7 +1856,10 @@
     "summary": "Jill Valentine fights to escape Raccoon City while relentlessly hunted by the unstoppable bioweapon Nemesis.",
     "steamAppId": 952060,
     "store": "Steam",
-    "genres": ["Horror", "Action"],
+    "genres": [
+      "Horror",
+      "Action"
+    ],
     "year": 2020
   },
   {
@@ -1460,7 +1871,9 @@
     "summary": "A terrifying first-person shift for the franchise as Ethan Winters searches for his missing wife in a derelict plantation.",
     "steamAppId": 418370,
     "store": "Steam",
-    "genres": ["Horror"],
+    "genres": [
+      "Horror"
+    ],
     "year": 2017
   },
   {
@@ -1472,7 +1885,10 @@
     "summary": "Ethan Winters faces bizarre mutants and horrors in a remote snow-covered European village.",
     "steamAppId": 1196590,
     "store": "Steam",
-    "genres": ["Horror", "Action"],
+    "genres": [
+      "Horror",
+      "Action"
+    ],
     "year": 2021
   },
   {
@@ -1484,7 +1900,11 @@
     "summary": "Battle colossal beasts in a living ecosystem either solo or with up to three other hunters.",
     "steamAppId": 582010,
     "store": "Steam",
-    "genres": ["Action", "RPG", "Co-op"],
+    "genres": [
+      "Action",
+      "RPG",
+      "Co-op"
+    ],
     "year": 2018
   },
   {
@@ -1496,7 +1916,11 @@
     "summary": "Ninja-inspired hunting action featuring wirebugs for vertical mobility and new canine Palamute companions.",
     "steamAppId": 1446780,
     "store": "Steam",
-    "genres": ["Action", "RPG", "Co-op"],
+    "genres": [
+      "Action",
+      "RPG",
+      "Co-op"
+    ],
     "year": 2022
   },
   {
@@ -1508,7 +1932,10 @@
     "summary": "Stylish action returns with Dante, Nero, and V battling demonic invasions with over-the-top combos.",
     "steamAppId": 601150,
     "store": "Steam",
-    "genres": ["Action", "Hack-and-slash"],
+    "genres": [
+      "Action",
+      "Hack-and-slash"
+    ],
     "year": 2019
   },
   {
@@ -1520,7 +1947,11 @@
     "summary": "A brilliant prequel diving into the criminal underworld of 1988 Tokyo and Osaka with Kiryu and Majima.",
     "steamAppId": 638970,
     "store": "Steam",
-    "genres": ["Action", "Open world", "RPG"],
+    "genres": [
+      "Action",
+      "Open world",
+      "RPG"
+    ],
     "year": 2018
   },
   {
@@ -1532,7 +1963,10 @@
     "summary": "A full remake of the original Yakuza game with enhanced combat, updated graphics, and extra side stories.",
     "steamAppId": 834530,
     "store": "Steam",
-    "genres": ["Action", "Open world"],
+    "genres": [
+      "Action",
+      "Open world"
+    ],
     "year": 2018
   },
   {
@@ -1544,7 +1978,10 @@
     "summary": "A fresh start featuring turn-based RPG combat and an eccentric new protagonist, Ichiban Kasuga.",
     "steamAppId": 1235140,
     "store": "Steam",
-    "genres": ["RPG", "Open world"],
+    "genres": [
+      "RPG",
+      "Open world"
+    ],
     "year": 2020
   },
   {
@@ -1556,7 +1993,10 @@
     "summary": "Go undercover in the triads of Hong Kong in this martial-arts heavy open-world crime thriller.",
     "steamAppId": 307690,
     "store": "Steam",
-    "genres": ["Open world", "Action"],
+    "genres": [
+      "Open world",
+      "Action"
+    ],
     "year": 2014
   },
   {
@@ -1568,7 +2008,10 @@
     "summary": "Cause absolute explosive chaos across a Mediterranean island paradise with a grappling hook and parachute.",
     "steamAppId": 225540,
     "store": "Steam",
-    "genres": ["Open world", "Action"],
+    "genres": [
+      "Open world",
+      "Action"
+    ],
     "year": 2015
   },
   {
@@ -1580,7 +2023,10 @@
     "summary": "Use telekinetic powers and shape-shifting service weapons inside a surreal paranormal government agency.",
     "steamAppId": 870780,
     "store": "Steam",
-    "genres": ["Action", "Sci-fi"],
+    "genres": [
+      "Action",
+      "Sci-fi"
+    ],
     "year": 2020
   },
   {
@@ -1592,7 +2038,10 @@
     "summary": "A troubled author investigates the mysterious disappearance of his wife in a small Pacific Northwest town.",
     "steamAppId": 108710,
     "store": "Steam",
-    "genres": ["Horror", "Action"],
+    "genres": [
+      "Horror",
+      "Action"
+    ],
     "year": 2012
   },
   {
@@ -1603,7 +2052,10 @@
     "pegi": "PEGI 18",
     "summary": "A psychological survival horror masterpiece alternating between FBI agent Saga Anderson and trapped writer Alan Wake.",
     "store": "Epic",
-    "genres": ["Horror", "Action"],
+    "genres": [
+      "Horror",
+      "Action"
+    ],
     "year": 2023
   },
   {
@@ -1615,7 +2067,11 @@
     "summary": "Survive the radioactive ruins of post-apocalyptic Moscow underground tunnels populated by mutants and hostile factions.",
     "steamAppId": 286690,
     "store": "Steam",
-    "genres": ["Shooter", "Horror", "Sci-fi"],
+    "genres": [
+      "Shooter",
+      "Horror",
+      "Sci-fi"
+    ],
     "year": 2014,
     "folder": "Metro 2033"
   },
@@ -1628,7 +2084,11 @@
     "summary": "The gripping sequel to Metro 2033 where Artyom seeks the final key to humanity's survival.",
     "steamAppId": 287390,
     "store": "Steam",
-    "genres": ["Shooter", "Horror", "Sci-fi"],
+    "genres": [
+      "Shooter",
+      "Horror",
+      "Sci-fi"
+    ],
     "year": 2014,
     "folder": "Metro Last Light"
   },
@@ -1641,7 +2101,11 @@
     "summary": "Flee the Moscow metro tunnels and journey across a vast, semi-open post-apocalyptic Russian wilderness.",
     "steamAppId": 412020,
     "store": "Steam",
-    "genres": ["Shooter", "Survival", "Sci-fi"],
+    "genres": [
+      "Shooter",
+      "Survival",
+      "Sci-fi"
+    ],
     "year": 2019
   },
   {
@@ -1653,7 +2117,11 @@
     "summary": "Explore the hazardous Chornobyl Exclusion Zone filled with anomalies, mutants, and valuable artifacts.",
     "steamAppId": 4500,
     "store": "Steam",
-    "genres": ["Shooter", "Survival", "Horror"],
+    "genres": [
+      "Shooter",
+      "Survival",
+      "Horror"
+    ],
     "year": 2007
   },
   {
@@ -1665,7 +2133,10 @@
     "summary": "Venture into the heart of the Zone toward the deserted city of Pripyat as a Ukrainian security agent.",
     "steamAppId": 41700,
     "store": "Steam",
-    "genres": ["Shooter", "Survival"],
+    "genres": [
+      "Shooter",
+      "Survival"
+    ],
     "year": 2009,
     "folder": "Pripyat"
   },
@@ -1678,7 +2149,11 @@
     "summary": "Parkour across a zombie-infested quarantine city by day and survive terrifying volatile predators by night.",
     "steamAppId": 239140,
     "store": "Steam",
-    "genres": ["Survival", "Action", "Horror"],
+    "genres": [
+      "Survival",
+      "Action",
+      "Horror"
+    ],
     "year": 2015
   },
   {
@@ -1690,7 +2165,11 @@
     "summary": "Humanity is on the brink in a sprawling infected metropolis where your parkour choices shape the city.",
     "steamAppId": 534380,
     "store": "Steam",
-    "genres": ["Survival", "Action", "Horror"],
+    "genres": [
+      "Survival",
+      "Action",
+      "Horror"
+    ],
     "year": 2022
   },
   {
@@ -1702,7 +2181,11 @@
     "summary": "A gore-filled, sunny trip through a quarantined, zombie-infested Los Angeles (HELL-A).",
     "steamAppId": 674020,
     "store": "Steam",
-    "genres": ["Action", "Horror", "Co-op"],
+    "genres": [
+      "Action",
+      "Horror",
+      "Co-op"
+    ],
     "year": 2023
   },
   {
@@ -1714,7 +2197,11 @@
     "summary": "Build a community of survivors, manage resources, and survive an open-world zombie apocalypse with friends.",
     "steamAppId": 495420,
     "store": "Steam",
-    "genres": ["Survival", "Strategy", "Co-op"],
+    "genres": [
+      "Survival",
+      "Strategy",
+      "Co-op"
+    ],
     "year": 2020
   },
   {
@@ -1725,7 +2212,11 @@
     "summary": "Return to planet 4546B in a freezing arctic biome to uncover the truth behind a mysterious disappearance.",
     "steamAppId": 848450,
     "store": "Steam",
-    "genres": ["Survival", "Open world", "Sci-fi"],
+    "genres": [
+      "Survival",
+      "Open world",
+      "Sci-fi"
+    ],
     "year": 2021
   },
   {
@@ -1736,7 +2227,10 @@
     "summary": "A punishing psychological survival simulator set in the unexplored depths of the Amazon rainforest.",
     "steamAppId": 815370,
     "store": "Steam",
-    "genres": ["Survival", "Simulation"],
+    "genres": [
+      "Survival",
+      "Simulation"
+    ],
     "year": 2019
   },
   {
@@ -1747,7 +2241,10 @@
     "summary": "Test your survival skills in a vast Pacific Ocean environment after a plane crash stranded you alone.",
     "steamAppId": 313120,
     "store": "Steam",
-    "genres": ["Survival", "Open world"],
+    "genres": [
+      "Survival",
+      "Open world"
+    ],
     "year": 2022
   },
   {
@@ -1759,7 +2256,10 @@
     "summary": "Shrunk to the size of an ant, survive the dangers of a suburban backyard with cooperative crafting and combat.",
     "steamAppId": 962130,
     "store": "Steam",
-    "genres": ["Survival", "Co-op"],
+    "genres": [
+      "Survival",
+      "Co-op"
+    ],
     "year": 2022
   },
   {
@@ -1770,7 +2270,11 @@
     "summary": "A cooperative 2D submarine simulator set in the dark ocean of Jupiter's moon Europa, complete with monsters and traitors.",
     "steamAppId": 602960,
     "store": "Steam",
-    "genres": ["Simulation", "Co-op", "Sci-fi"],
+    "genres": [
+      "Simulation",
+      "Co-op",
+      "Sci-fi"
+    ],
     "year": 2023
   },
   {
@@ -1782,7 +2286,11 @@
     "summary": "The only aim in Rust is to survive. Conquer hunger, thirst, and cold, build bases, and outlast other players.",
     "steamAppId": 252490,
     "store": "Steam",
-    "genres": ["Survival", "Open world", "Multiplayer"],
+    "genres": [
+      "Survival",
+      "Open world",
+      "Multiplayer"
+    ],
     "year": 2018
   },
   {
@@ -1794,7 +2302,11 @@
     "summary": "Stranded on a mysterious island, hunt, harvest, craft items, and tame dinosaurs in a massive multiplayer world.",
     "steamAppId": 346110,
     "store": "Steam",
-    "genres": ["Survival", "Open world", "Co-op"],
+    "genres": [
+      "Survival",
+      "Open world",
+      "Co-op"
+    ],
     "year": 2017
   },
   {
@@ -1806,7 +2318,10 @@
     "summary": "An open-world survival game set in the savage lands of Conan the Barbarian, featuring base building and brutal combat.",
     "steamAppId": 440900,
     "store": "Steam",
-    "genres": ["Survival", "Open world"],
+    "genres": [
+      "Survival",
+      "Open world"
+    ],
     "year": 2018
   },
   {
@@ -1818,7 +2333,11 @@
     "summary": "An open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games.",
     "steamAppId": 251570,
     "store": "Steam",
-    "genres": ["Survival", "Horror", "Sandbox"],
+    "genres": [
+      "Survival",
+      "Horror",
+      "Sandbox"
+    ],
     "year": 2013
   },
   {
@@ -1830,7 +2349,11 @@
     "summary": "A gritty multiplayer survival game where 60 players on a massive map fight for scarce resources against zombies and each other.",
     "steamAppId": 221100,
     "store": "Steam",
-    "genres": ["Survival", "Open world", "Horror"],
+    "genres": [
+      "Survival",
+      "Open world",
+      "Horror"
+    ],
     "year": 2018
   },
   {
@@ -1840,7 +2363,11 @@
     "creators": "Battlestate Games",
     "summary": "A hardcore, realistic online first-person action RPG/simulator featuring harrowing extraction mechanics.",
     "store": "Battlestate",
-    "genres": ["Shooter", "Survival", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Survival",
+      "Tactical"
+    ],
     "year": 2017
   },
   {
@@ -1852,7 +2379,11 @@
     "summary": "A high-stakes tactical PvPvE bounty hunting game set in the haunted swamps of Louisiana.",
     "steamAppId": 594650,
     "store": "Steam",
-    "genres": ["Shooter", "Horror", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Horror",
+      "Tactical"
+    ],
     "year": 2019
   },
   {
@@ -1864,7 +2395,11 @@
     "summary": "A hardcore 50v50 tactical multiplayer WWII shooter featuring communication, artillery, and sprawling front lines.",
     "steamAppId": 686810,
     "store": "Steam",
-    "genres": ["Shooter", "Tactical", "Strategy"],
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Strategy"
+    ],
     "year": 2021
   },
   {
@@ -1876,7 +2411,10 @@
     "summary": "A team-based, tactical first-person shooter based on lethal close-quarters combat and objective-oriented multiplayer.",
     "steamAppId": 581320,
     "store": "Steam",
-    "genres": ["Shooter", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
     "year": 2018,
     "folder": "Sandstorm"
   },
@@ -1889,7 +2427,10 @@
     "summary": "An intense, tactical first-person shooter depicting a modern-day world where SWAT police units are called to defuse hostile situations.",
     "steamAppId": 1144200,
     "store": "Steam",
-    "genres": ["Shooter", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
     "year": 2023
   },
   {
@@ -1901,7 +2442,11 @@
     "summary": "Experience true combat gameplay in a massive military sandbox spanning vast terrain islands.",
     "steamAppId": 107410,
     "store": "Steam",
-    "genres": ["Simulation", "Tactical", "Strategy"],
+    "genres": [
+      "Simulation",
+      "Tactical",
+      "Strategy"
+    ],
     "year": 2013
   },
   {
@@ -1913,7 +2458,10 @@
     "summary": "A large-scale tactical multiplayer FPS that addresses real-world combat through teamwork, communication, and base building.",
     "steamAppId": 393380,
     "store": "Steam",
-    "genres": ["Shooter", "Tactical"],
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
     "year": 2020
   },
   {
@@ -1925,7 +2473,11 @@
     "summary": "Team up in a four-player co-op heist shooter hitting banks and securing massive paydays.",
     "steamAppId": 218620,
     "store": "Steam",
-    "genres": ["Shooter", "Co-op", "Action"],
+    "genres": [
+      "Shooter",
+      "Co-op",
+      "Action"
+    ],
     "year": 2013
   },
   {
@@ -1937,7 +2489,11 @@
     "summary": "The much-anticipated sequel bringing the legendary criminal crew out of retirement for high-tech heists.",
     "steamAppId": 1272080,
     "store": "Steam",
-    "genres": ["Shooter", "Co-op", "Action"],
+    "genres": [
+      "Shooter",
+      "Co-op",
+      "Action"
+    ],
     "year": 2023
   },
   {
@@ -1949,7 +2505,11 @@
     "summary": "Descend into continental Europe where an outbreak caused by Horzine Biotech's failed clone experiments has spread.",
     "steamAppId": 232090,
     "store": "Steam",
-    "genres": ["Shooter", "Co-op", "Horror"],
+    "genres": [
+      "Shooter",
+      "Co-op",
+      "Horror"
+    ],
     "year": 2016
   },
   {
@@ -1961,7 +2521,11 @@
     "summary": "Play as one of four new vault hunters facing off against a massive universe of loot, guns, and the tyrannical Handsome Jack.",
     "steamAppId": 49520,
     "store": "Steam",
-    "genres": ["RPG", "Shooter", "Co-op"],
+    "genres": [
+      "RPG",
+      "Shooter",
+      "Co-op"
+    ],
     "year": 2012
   },
   {
@@ -1973,7 +2537,11 @@
     "summary": "The original shooter-looter returns, packing bazillions of guns and an adventure across multiple planets.",
     "steamAppId": 397540,
     "store": "Steam",
-    "genres": ["RPG", "Shooter", "Co-op"],
+    "genres": [
+      "RPG",
+      "Shooter",
+      "Co-op"
+    ],
     "year": 2020
   },
   {
@@ -1985,7 +2553,11 @@
     "summary": "Discover the story behind Borderlands 2 villain Handsome Jack while bounding across Pandora's moon with low-gravity mechanics.",
     "steamAppId": 261640,
     "store": "Steam",
-    "genres": ["RPG", "Shooter", "Sci-fi"],
+    "genres": [
+      "RPG",
+      "Shooter",
+      "Sci-fi"
+    ],
     "year": 2014
   },
   {
@@ -1997,7 +2569,11 @@
     "summary": "A chaotic fantasy looter-shooter shaped by erratic dungeon master Tiny Tina.",
     "steamAppId": 1286680,
     "store": "Steam",
-    "genres": ["RPG", "Shooter", "Fantasy"],
+    "genres": [
+      "RPG",
+      "Shooter",
+      "Fantasy"
+    ],
     "year": 2022
   },
   {
@@ -2009,7 +2585,11 @@
     "summary": "A visually stunning platformer about a young orphan destined for heroism in a dying forest.",
     "steamAppId": 261570,
     "store": "Steam",
-    "genres": ["Platformer", "Metroidvania", "Fantasy"],
+    "genres": [
+      "Platformer",
+      "Metroidvania",
+      "Fantasy"
+    ],
     "year": 2015
   },
   {
@@ -2021,7 +2601,11 @@
     "summary": "Embark on an expansive adventure in a vast, exotic world to uncover Ori's true destiny.",
     "steamAppId": 1057090,
     "store": "Steam",
-    "genres": ["Platformer", "Metroidvania", "Fantasy"],
+    "genres": [
+      "Platformer",
+      "Metroidvania",
+      "Fantasy"
+    ],
     "year": 2020
   },
   {
@@ -2033,7 +2617,10 @@
     "summary": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain in a tight, challenging platformer.",
     "steamAppId": 504230,
     "store": "Steam",
-    "genres": ["Platformer", "Indie"],
+    "genres": [
+      "Platformer",
+      "Indie"
+    ],
     "year": 2018
   },
   {
@@ -2045,7 +2632,11 @@
     "summary": "A classic run and gun action game heavily focused on boss battles, inspired by 1930s cartoons.",
     "steamAppId": 268910,
     "store": "Steam",
-    "genres": ["Action", "Platformer", "Indie"],
+    "genres": [
+      "Action",
+      "Platformer",
+      "Indie"
+    ],
     "year": 2017
   },
   {
@@ -2057,7 +2648,11 @@
     "summary": "A rogue-lite, metroidvania-inspired action platformer where you'll explore a sprawling, ever-changing castle.",
     "steamAppId": 588650,
     "store": "Steam",
-    "genres": ["Roguelike", "Metroidvania", "Action"],
+    "genres": [
+      "Roguelike",
+      "Metroidvania",
+      "Action"
+    ],
     "year": 2018
   },
   {
@@ -2069,7 +2664,11 @@
     "summary": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters in a 3D rogue-like shooter.",
     "steamAppId": 632360,
     "store": "Steam",
-    "genres": ["Roguelike", "Shooter", "Co-op"],
+    "genres": [
+      "Roguelike",
+      "Shooter",
+      "Co-op"
+    ],
     "year": 2020
   },
   {
@@ -2081,7 +2680,11 @@
     "summary": "Craft a unique deck, encounter bizarre creatures, and discover relics of immense power in a pioneering deckbuilding rogue-like.",
     "steamAppId": 646570,
     "store": "Steam",
-    "genres": ["Strategy", "Roguelike", "Card game"],
+    "genres": [
+      "Strategy",
+      "Roguelike",
+      "Card game"
+    ],
     "year": 2019
   },
   {
@@ -5319,7 +5922,10 @@
     "summary": "Build and grow your own computer repair enterprise as you learn to diagnose, fix, and build PCs with real-world licensed hardware components.",
     "steamAppId": 621060,
     "store": "Steam",
-    "genres": ["Simulation", "Management"],
+    "genres": [
+      "Simulation",
+      "Management"
+    ],
     "year": 2018
   },
   {
@@ -5330,7 +5936,10 @@
     "pegi": "PEGI 3",
     "summary": "Learn to build and repair real PCs with expanded career depth, fully licensed hardware from top brand partners, and advanced RGB and custom water-cooling customization.",
     "store": "Epic",
-    "genres": ["Simulation", "Management"],
+    "genres": [
+      "Simulation",
+      "Management"
+    ],
     "year": 2022
   },
   {
@@ -5342,7 +5951,10 @@
     "summary": "Experience The World's Game featuring international tournament modes, updated tactical roles, and refined player career paths.",
     "steamAppId": 3405690,
     "store": "Steam",
-    "genres": ["Sports", "Simulation"],
+    "genres": [
+      "Sports",
+      "Simulation"
+    ],
     "coverUrl": "https://cdn2.steamgriddb.com/thumb/f781bbe464dbc0fae27290d123f1170a.jpg",
     "year": 2025
   },
@@ -5354,10 +5966,13 @@
     "pegi": "PEGI 3",
     "summary": "The latest evolution in football simulation with hyper-realistic animations, expanded manager challenges, and overhauled team dynamics.",
     "store": "Steam",
-    "genres": ["Sports", "Simulation"],
+    "genres": [
+      "Sports",
+      "Simulation"
+    ],
     "coverUrl": "https://www.fifplay.com/img/public/fc-27-cover-standard-edition.jpg",
     "year": 2026
-  }
+  },
   {
     "id": "liftoff-fpv-drone-racing",
     "name": "Liftoff®: FPV Drone Racing",
@@ -18230,5 +18845,4 @@
     ],
     "year": 2015
   }
-]
 ]
